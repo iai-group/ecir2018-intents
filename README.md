@@ -7,7 +7,7 @@ This repository provides resources developed within the following paper:
 These resources allow to reproduce the results presented in the paper.
 
 
-## Annotated sample of type-level refiners
+## Collection of categorized type-level refiners
 
 In `annotation_output/refiners_categorization.tsv`, we provide the output of our annotation experiment conducted by crowdsourcing (details in the paper): a large collection of type-level refiners, annotated with intent categories.
 
