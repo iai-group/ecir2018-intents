@@ -1,0 +1,4371 @@
+Type	Intent	Top_judged_category	Judgment_rate_(confidence)
+[academic institution]	wiki	website	1.0
+[academic institution]	login	website	1.0
+[academic institution]	twitter	website	0.75
+[academic institution]	online	website	0.75
+[academic institution]	portal	website	0.6
+[academic institution]	tuition	service	1.0
+[academic institution]	scholarships	service	1.0
+[academic institution]	scholarship	service	1.0
+[academic institution]	ranking	service	1.0
+[academic institution]	map	service	1.0
+[academic institution]	library	service	1.0
+[academic institution]	jobs	service	1.0
+[academic institution]	internship	service	1.0
+[academic institution]	housing	service	1.0
+[academic institution]	graduation	service	1.0
+[academic institution]	funding	service	1.0
+[academic institution]	fellowship	service	1.0
+[academic institution]	events	service	1.0
+[academic institution]	chemistry	service	1.0
+[academic institution]	careers	service	1.0
+[academic institution]	campus	service	1.0
+[academic institution]	admissions	service	1.0
+[academic institution]	admission	service	1.0
+[academic institution]	accommodation	service	1.0
+[academic institution]	athletics staff directory	service	1.0
+[academic institution]	press	service	0.75
+[academic institution]	pa program	service	0.75
+[academic institution]	masters	service	0.75
+[academic institution]	law school	service	0.75
+[academic institution]	gpa	service	0.75
+[academic institution]	bookstore	service	0.75
+[academic institution]	school of medicine	service	0.6
+[academic institution]	phd	service	0.6
+[academic institution]	membership	service	0.6
+[academic institution]	majors	service	0.6
+[academic institution]	hospital	service	0.6
+[academic institution]	football	service	0.6
+[academic institution]	fees	service	0.6
+[academic institution]	courses	service	0.6
+[academic institution]	contact	service	0.6
+[academic institution]	computer science	service	0.6
+[academic institution]	application	service	0.6
+[academic institution]	acceptance rate	service	0.6
+[academic institution]	parking	property	1.0
+[academic institution]	medicine	property	1.0
+[academic institution]	logo	property	1.0
+[academic institution]	faculty	property	1.0
+[academic institution]	open days	property	0.75
+[academic institution]	open day	property	0.75
+[academic institution]	mba	property	0.75
+[academic institution]	location	property	0.75
+[academic institution]	class profile	property	0.75
+[academic institution]	address	property	0.75
+[academic institution]	world ranking	property	0.6
+[academic institution]	requirements	property	0.6
+[academic institution]	notable alumni	property	0.6
+[academic institution]	athletics	property	0.6
+[academic institution]	academic calendar	property	0.6
+[airport]	wikipedia	website	1.0
+[airport]	wiki	website	1.0
+[airport]	website	website	1.0
+[airport]	official website	website	1.0
+[airport]	facebook	website	1.0
+[airport]	weather	service	1.0
+[airport]	visitor center	service	1.0
+[airport]	transfers	service	1.0
+[airport]	transfer	service	1.0
+[airport]	tours	service	1.0
+[airport]	to train station	service	1.0
+[airport]	terminals	service	1.0
+[airport]	terminal map	service	1.0
+[airport]	taxi	service	1.0
+[airport]	shops	service	1.0
+[airport]	shopping	service	1.0
+[airport]	schedule	service	1.0
+[airport]	restaurants	service	1.0
+[airport]	recruitment	service	1.0
+[airport]	pictures	service	1.0
+[airport]	photos	service	1.0
+[airport]	pharmacy	service	1.0
+[airport]	park	service	1.0
+[airport]	news	service	1.0
+[airport]	map	service	1.0
+[airport]	long term parking	service	1.0
+[airport]	lodging	service	1.0
+[airport]	latest news	service	1.0
+[airport]	jobs 2017	service	1.0
+[airport]	jobs	service	1.0
+[airport]	international airport	service	1.0
+[airport]	information	service	1.0
+[airport]	hotels near	service	1.0
+[airport]	hotels	service	1.0
+[airport]	fsx	service	1.0
+[airport]	food	service	1.0
+[airport]	flights to	service	1.0
+[airport]	flights	service	1.0
+[airport]	flight path	service	1.0
+[airport]	fbo	service	1.0
+[airport]	facilities	service	1.0
+[airport]	exchange	service	1.0
+[airport]	directions	service	1.0
+[airport]	destinations	service	1.0
+[airport]	departures	service	1.0
+[airport]	clinic	service	1.0
+[airport]	careers	service	1.0
+[airport]	car rentals	service	1.0
+[airport]	car rental	service	1.0
+[airport]	car hire	service	1.0
+[airport]	bus	service	1.0
+[airport]	arrivals	service	1.0
+[airport]	airlines	service	1.0
+[airport]	air show 2017	service	1.0
+[airport]	air show	service	1.0
+[airport]	webcam	service	0.75
+[airport]	vacancies	service	0.75
+[airport]	upgrade	service	0.75
+[airport]	to city	service	0.75
+[airport]	shuttle	service	0.75
+[airport]	runway	service	0.75
+[airport]	police	service	0.75
+[airport]	parking rates	service	0.75
+[airport]	medical centre	service	0.75
+[airport]	lost and found	service	0.75
+[airport]	library	service	0.75
+[airport]	images	service	0.75
+[airport]	housing	service	0.75
+[airport]	hospital	service	0.75
+[airport]	history	service	0.75
+[airport]	gym	service	0.75
+[airport]	flight arrivals	service	0.75
+[airport]	customs	service	0.75
+[airport]	charts	service	0.75
+[airport]	authority	service	0.75
+[airport]	accommodation	service	0.75
+[airport]	to city centre	service	0.6
+[airport]	skyscrapercity	service	0.6
+[airport]	shuttle bus	service	0.6
+[airport]	restaurant	service	0.6
+[airport]	post office	service	0.6
+[airport]	parking	service	0.6
+[airport]	new terminal	service	0.6
+[airport]	mwr	service	0.6
+[airport]	lounges	service	0.6
+[airport]	hotel	service	0.6
+[airport]	flight schedule	service	0.6
+[airport]	fire department	service	0.6
+[airport]	expansion	service	0.6
+[airport]	departure	service	0.6
+[airport]	commissary	service	0.6
+[airport]	cafe	service	0.6
+[airport]	airport	service	0.6
+[airport]	zip code	property	1.0
+[airport]	terminal fee	property	1.0
+[airport]	status	property	1.0
+[airport]	pin code	property	1.0
+[airport]	phone number	property	1.0
+[airport]	name	property	1.0
+[airport]	mailing address	property	1.0
+[airport]	logo	property	1.0
+[airport]	location	property	1.0
+[airport]	hours	property	1.0
+[airport]	contact number	property	1.0
+[airport]	closed	property	1.0
+[airport]	address	property	1.0
+[airport]	terminal 4	property	0.75
+[airport]	number	property	0.75
+[airport]	lounge	property	0.75
+[airport]	flight status	property	0.75
+[airport]	code	property	0.75
+[airport]	wifi	property	0.6
+[airport]	theater	property	0.6
+[airport]	terminal 1	property	0.6
+[airport]	terminal	property	0.6
+[airport]	tax	property	0.6
+[airport]	postcode	property	0.6
+[airport]	master plan	property	0.6
+[airport]	landing	property	0.6
+[airport]	duty free	property	0.6
+[airport]	contact	property	0.6
+[airport]	construction	property	0.6
+[airport]	arrival	property	0.6
+[airport]	thailand	other	1.0
+[airport]	2017	other	1.0
+[airport]	2015	other	1.0
+[airport]	china	other	0.75
+[airport]	enterprise	other	0.6
+[airport]	crash	other	0.6
+[airport]	bx	other	0.6
+[airport]	attack	other	0.6
+[airport]	aircraft	other	0.6
+[album]	youtube	website	1.0
+[album]	wikipedia	website	1.0
+[album]	wiki	website	1.0
+[album]	amazon	website	1.0
+[album]	album youtube	website	1.0
+[album]	imdb	website	0.75
+[album]	david bowie youtube	website	0.75
+[album]	zip download	service	1.0
+[album]	video	service	1.0
+[album]	ukulele chords	service	1.0
+[album]	trailer	service	1.0
+[album]	tracklist	service	1.0
+[album]	songs download	service	1.0
+[album]	songs	service	1.0
+[album]	sales	service	1.0
+[album]	quotes	service	1.0
+[album]	piano	service	1.0
+[album]	movie	service	1.0
+[album]	menu	service	1.0
+[album]	lyrics	service	1.0
+[album]	in order	service	1.0
+[album]	free download	service	1.0
+[album]	film	service	1.0
+[album]	dvd	service	1.0
+[album]	download zip	service	1.0
+[album]	download free	service	1.0
+[album]	download	service	1.0
+[album]	deluxe	service	1.0
+[album]	david bowie download	service	1.0
+[album]	covers	service	1.0
+[album]	cover art	service	1.0
+[album]	chords	service	1.0
+[album]	bass tab	service	1.0
+[album]	artwork	service	1.0
+[album]	album songs	service	1.0
+[album]	album review	service	1.0
+[album]	album free download	service	1.0
+[album]	album download zip	service	1.0
+[album]	album cover	service	1.0
+[album]	wallpaper	service	0.75
+[album]	vinyl	service	0.75
+[album]	tribute band	service	0.75
+[album]	track list	service	0.75
+[album]	tour	service	0.75
+[album]	tattoo	service	0.75
+[album]	t shirt	service	0.75
+[album]	stream	service	0.75
+[album]	song list	service	0.75
+[album]	reviews	service	0.75
+[album]	review	service	0.75
+[album]	remastered	service	0.75
+[album]	records	service	0.75
+[album]	ranked	service	0.75
+[album]	poster	service	0.75
+[album]	playlist	service	0.75
+[album]	mp3 download	service	0.75
+[album]	mp3	service	0.75
+[album]	meaning	service	0.75
+[album]	list	service	0.75
+[album]	iron maiden review	service	0.75
+[album]	in spanish	service	0.75
+[album]	gif	service	0.75
+[album]	full movie	service	0.75
+[album]	download mp3	service	0.75
+[album]	discogs	service	0.75
+[album]	cover meaning	service	0.75
+[album]	allmusic	service	0.75
+[album]	albums	service	0.75
+[album]	album lyrics	service	0.75
+[album]	album download	service	0.75
+[album]	zip	service	0.6
+[album]	version	service	0.6
+[album]	story	service	0.6
+[album]	soundtrack	service	0.6
+[album]	sample	service	0.6
+[album]	rym	service	0.6
+[album]	pitchfork	service	0.6
+[album]	original	service	0.6
+[album]	meme	service	0.6
+[album]	live	service	0.6
+[album]	guitar	service	0.6
+[album]	game	service	0.6
+[album]	full album	service	0.6
+[album]	font	service	0.6
+[album]	flac	service	0.6
+[album]	deluxe edition	service	0.6
+[album]	box set	service	0.6
+[album]	best to worst	service	0.6
+[album]	beer	service	0.6
+[album]	band	service	0.6
+[album]	art	service	0.6
+[album]	album art	service	0.6
+[album]	album	service	0.6
+[album]	value	property	0.75
+[album]	song	property	0.75
+[album]	mono	property	0.75
+[album]	logo	property	0.75
+[album]	cover location	property	0.75
+[album]	cd	property	0.75
+[album]	cast	property	0.75
+[album]	album zip	property	0.75
+[album]	vinyl value	property	0.6
+[album]	synonym	property	0.6
+[album]	release date	property	0.6
+[album]	jojo	property	0.6
+[album]	intro	property	0.6
+[album]	book	property	0.6
+[album]	back cover	property	0.6
+[album]	2015	other	1.0
+[album]	2014	other	1.0
+[album]	rar	other	0.75
+[album]	lp	other	0.75
+[album]	shirt	other	0.6
+[album]	2016	other	0.6
+[album]	2	other	0.6
+[amusement park]	wikipedia	website	1.0
+[amusement park]	wiki	website	1.0
+[amusement park]	website	website	1.0
+[amusement park]	facebook	website	1.0
+[amusement park]	tripadvisor	website	0.75
+[amusement park]	vouchers	service	1.0
+[amusement park]	tickets	service	1.0
+[amusement park]	ticket prices	service	1.0
+[amusement park]	season pass	service	1.0
+[amusement park]	roller coasters	service	1.0
+[amusement park]	restaurants	service	1.0
+[amusement park]	promo code 2017	service	1.0
+[amusement park]	pictures	service	1.0
+[amusement park]	photos	service	1.0
+[amusement park]	offers	service	1.0
+[amusement park]	news	service	1.0
+[amusement park]	jobs	service	1.0
+[amusement park]	images	service	1.0
+[amusement park]	hotel	service	1.0
+[amusement park]	for sale	service	1.0
+[amusement park]	flash pass	service	1.0
+[amusement park]	facts	service	1.0
+[amusement park]	events	service	1.0
+[amusement park]	discounts	service	1.0
+[amusement park]	coupons	service	1.0
+[amusement park]	coupon	service	1.0
+[amusement park]	concerts	service	1.0
+[amusement park]	commercial	service	1.0
+[amusement park]	admission	service	1.0
+[amusement park]	water park	service	0.75
+[amusement park]	song	service	0.75
+[amusement park]	review	service	0.75
+[amusement park]	promo code	service	0.75
+[amusement park]	passes	service	0.75
+[amusement park]	movie	service	0.75
+[amusement park]	hotels	service	0.75
+[amusement park]	food	service	0.75
+[amusement park]	fireworks	service	0.75
+[amusement park]	discount tickets	service	0.75
+[amusement park]	discount code	service	0.75
+[amusement park]	discount	service	0.75
+[amusement park]	cost	service	0.75
+[amusement park]	camping	service	0.75
+[amusement park]	apartments	service	0.75
+[amusement park]	ticket	service	0.6
+[amusement park]	tarif	service	0.6
+[amusement park]	roller coaster	service	0.6
+[amusement park]	reviews	service	0.6
+[amusement park]	price	service	0.6
+[amusement park]	horarios	service	0.6
+[amusement park]	demolition	service	0.6
+[amusement park]	theme park	property	1.0
+[amusement park]	parking	property	1.0
+[amusement park]	park	property	1.0
+[amusement park]	opening times	property	1.0
+[amusement park]	ohio	property	1.0
+[amusement park]	entrance fee	property	1.0
+[amusement park]	closing	property	1.0
+[amusement park]	closed	property	1.0
+[amusement park]	campground	property	1.0
+[amusement park]	australia	property	1.0
+[amusement park]	adresse	property	1.0
+[amusement park]	timings	property	0.75
+[amusement park]	texas	property	0.75
+[amusement park]	resort	property	0.75
+[amusement park]	postcode	property	0.75
+[amusement park]	hours	property	0.75
+[amusement park]	haunted house	property	0.75
+[amusement park]	death	property	0.75
+[amusement park]	carousel	property	0.75
+[amusement park]	cabana	property	0.75
+[amusement park]	amusement park	property	0.75
+[amusement park]	ticket price	property	0.6
+[amusement park]	preise	property	0.6
+[amusement park]	pool	property	0.6
+[amusement park]	adres	property	0.6
+[amusement park]	nj	other	1.0
+[amusement park]	Ã¶ffnungszeiten	other	0.75
+[amusement park]	pune	other	0.75
+[amusement park]	2015	other	0.75
+[amusement park]	fire	other	0.6
+[amusement park]	deaths	other	0.6
+[amusement park]	accident	other	0.6
+[amusement park]	abandoned	other	0.6
+[artwork]	youtube	website	1.0
+[artwork]	wikipedia	website	1.0
+[artwork]	wiki	website	1.0
+[artwork]	amazon	website	1.0
+[artwork]	translation	service	1.0
+[artwork]	tour	service	1.0
+[artwork]	tickets	service	1.0
+[artwork]	tattoo	service	1.0
+[artwork]	school	service	1.0
+[artwork]	review	service	1.0
+[artwork]	restoration	service	1.0
+[artwork]	reproduction	service	1.0
+[artwork]	replica	service	1.0
+[artwork]	quotes	service	1.0
+[artwork]	photos	service	1.0
+[artwork]	parody	service	1.0
+[artwork]	painter crossword	service	1.0
+[artwork]	music	service	1.0
+[artwork]	movie	service	1.0
+[artwork]	map	service	1.0
+[artwork]	lyrics	service	1.0
+[artwork]	information	service	1.0
+[artwork]	history	service	1.0
+[artwork]	film	service	1.0
+[artwork]	facts	service	1.0
+[artwork]	drawing	service	1.0
+[artwork]	buy	service	1.0
+[artwork]	analyse	service	1.0
+[artwork]	worth	service	0.75
+[artwork]	video	service	0.75
+[artwork]	uffizi	service	0.75
+[artwork]	summary	service	0.75
+[artwork]	rubens	service	0.75
+[artwork]	raphael	service	0.75
+[artwork]	pronunciation	service	0.75
+[artwork]	print	service	0.75
+[artwork]	pictures	service	0.75
+[artwork]	pdf	service	0.75
+[artwork]	paintings	service	0.75
+[artwork]	painter	service	0.75
+[artwork]	original	service	0.75
+[artwork]	national gallery	service	0.75
+[artwork]	myth	service	0.75
+[artwork]	museum	service	0.75
+[artwork]	meme	service	0.75
+[artwork]	meaning	service	0.75
+[artwork]	leonardo	service	0.75
+[artwork]	inscription	service	0.75
+[artwork]	in spanish	service	0.75
+[artwork]	images	service	0.75
+[artwork]	image	service	0.75
+[artwork]	for sale	service	0.75
+[artwork]	download	service	0.75
+[artwork]	description	service	0.75
+[artwork]	cost	service	0.75
+[artwork]	bible	service	0.75
+[artwork]	band	service	0.75
+[artwork]	at night	service	0.75
+[artwork]	statue for sale	service	0.6
+[artwork]	sculpture	service	0.6
+[artwork]	poem	service	0.6
+[artwork]	parking	service	0.6
+[artwork]	painting analysis	service	0.6
+[artwork]	medium	service	0.6
+[artwork]	materials	service	0.6
+[artwork]	interpretation	service	0.6
+[artwork]	explanation	service	0.6
+[artwork]	detail	service	0.6
+[artwork]	descrizione	service	0.6
+[artwork]	controversy	service	0.6
+[artwork]	british museum	service	0.6
+[artwork]	bar	service	0.6
+[artwork]	ap art history	service	0.6
+[artwork]	picture	property	1.0
+[artwork]	picasso	property	1.0
+[artwork]	photo	property	1.0
+[artwork]	new york	property	1.0
+[artwork]	height	property	1.0
+[artwork]	dali	property	1.0
+[artwork]	address	property	1.0
+[artwork]	tapestry	property	0.75
+[artwork]	statue	property	0.75
+[artwork]	size	property	0.75
+[artwork]	louvre	property	0.75
+[artwork]	location	property	0.75
+[artwork]	hours	property	0.75
+[artwork]	high resolution	property	0.75
+[artwork]	date	property	0.75
+[artwork]	chicago	property	0.75
+[artwork]	book	property	0.75
+[artwork]	story	property	0.6
+[artwork]	romanticism	property	0.6
+[artwork]	price	property	0.6
+[artwork]	poster	property	0.6
+[artwork]	khan academy	property	0.6
+[artwork]	dimensions	property	0.6
+[artwork]	da vinci	property	0.6
+[artwork]	caravaggio	property	0.6
+[artwork]	canvas	property	0.6
+[artwork]	bruegel	property	0.6
+[artwork]	artist	property	0.6
+[artwork]	the	other	0.75
+[artwork]	play	other	0.75
+[artwork]	dc	other	0.75
+[artwork]	2017	other	0.75
+[asteroid]	wiki	website	1.0
+[asteroid]	facts	service	1.0
+[asteroid]	size	property	1.0
+[asteroid]	orbit	property	0.6
+[asteroid]	nasa	other	1.0
+[asteroid]	asteroide	other	0.6
+[basketball player]	youtube	website	1.0
+[basketball player]	wikipedia	website	1.0
+[basketball player]	wiki	website	1.0
+[basketball player]	twitter	website	1.0
+[basketball player]	linkedin	website	1.0
+[basketball player]	instagram	website	1.0
+[basketball player]	imdb	website	1.0
+[basketball player]	facebook	website	1.0
+[basketball player]	summer league	service	1.0
+[basketball player]	show	service	1.0
+[basketball player]	shoes	service	1.0
+[basketball player]	season stats	service	1.0
+[basketball player]	quotes	service	1.0
+[basketball player]	news	service	1.0
+[basketball player]	basketball camp 2017	service	1.0
+[basketball player]	interview	service	0.75
+[basketball player]	highlights	service	0.75
+[basketball player]	health	service	0.75
+[basketball player]	college	service	0.75
+[basketball player]	coaching record	service	0.75
+[basketball player]	book	service	0.75
+[basketball player]	basketball camp	service	0.75
+[basketball player]	obituary	service	0.6
+[basketball player]	movies	service	0.6
+[basketball player]	football	service	0.6
+[basketball player]	clippers	service	0.6
+[basketball player]	team	property	1.0
+[basketball player]	shoe size	property	1.0
+[basketball player]	position	property	1.0
+[basketball player]	nickname	property	1.0
+[basketball player]	mother	property	1.0
+[basketball player]	married	property	1.0
+[basketball player]	height in feet	property	1.0
+[basketball player]	height	property	1.0
+[basketball player]	family	property	1.0
+[basketball player]	contract	property	1.0
+[basketball player]	coach	property	1.0
+[basketball player]	career stats	property	1.0
+[basketball player]	age	property	1.0
+[basketball player]	young	property	0.75
+[basketball player]	tattoo	property	0.75
+[basketball player]	son	property	0.75
+[basketball player]	salary	property	0.75
+[basketball player]	net worth	property	0.75
+[basketball player]	kids	property	0.75
+[basketball player]	hands	property	0.75
+[basketball player]	hall of fame	property	0.75
+[basketball player]	father	property	0.75
+[basketball player]	email	property	0.75
+[basketball player]	dad	property	0.75
+[basketball player]	current team	property	0.75
+[basketball player]	wife	property	0.6
+[basketball player]	stats	property	0.6
+[basketball player]	sister	property	0.6
+[basketball player]	retire	property	0.6
+[basketball player]	parents	property	0.6
+[basketball player]	nba stats	property	0.6
+[basketball player]	husband	property	0.6
+[basketball player]	hair	property	0.6
+[basketball player]	girlfriend	property	0.6
+[basketball player]	daughter	property	0.6
+[basketball player]	children	property	0.6
+[basketball player]	bio	property	0.6
+[basketball player]	actor	property	0.6
+[basketball player]	wizards	other	1.0
+[basketball player]	warriors jersey	other	1.0
+[basketball player]	warriors	other	1.0
+[basketball player]	vertical	other	1.0
+[basketball player]	suns	other	1.0
+[basketball player]	sr	other	1.0
+[basketball player]	sixers	other	1.0
+[basketball player]	rotoworld	other	1.0
+[basketball player]	now	other	1.0
+[basketball player]	nets	other	1.0
+[basketball player]	md	other	1.0
+[basketball player]	magic	other	1.0
+[basketball player]	lakers	other	1.0
+[basketball player]	knicks	other	1.0
+[basketball player]	kings	other	1.0
+[basketball player]	kentucky	other	1.0
+[basketball player]	kansas	other	1.0
+[basketball player]	jr	other	1.0
+[basketball player]	espn	other	1.0
+[basketball player]	china	other	1.0
+[basketball player]	celtics	other	1.0
+[basketball player]	card	other	1.0
+[basketball player]	big 3	other	1.0
+[basketball player]	baseball	other	1.0
+[basketball player]	ucla	other	0.75
+[basketball player]	trade	other	0.75
+[basketball player]	shot	other	0.75
+[basketball player]	rookie card	other	0.75
+[basketball player]	pacers	other	0.75
+[basketball player]	michael jordan	other	0.75
+[basketball player]	lsu	other	0.75
+[basketball player]	lebron	other	0.75
+[basketball player]	eurobasket	other	0.75
+[basketball player]	elite	other	0.75
+[basketball player]	dynamic duo	other	0.75
+[basketball player]	duke	other	0.75
+[basketball player]	draftexpress	other	0.75
+[basketball player]	death	other	0.75
+[basketball player]	cavs	other	0.75
+[basketball player]	cause of death	other	0.75
+[basketball player]	cancer	other	0.75
+[basketball player]	brother	other	0.75
+[basketball player]	beard	other	0.75
+[basketball player]	basketball	other	0.75
+[basketball player]	all star	other	0.75
+[basketball player]	wnba	other	0.6
+[basketball player]	wingspan	other	0.6
+[basketball player]	spurs	other	0.6
+[basketball player]	shaq	other	0.6
+[basketball player]	rockets	other	0.6
+[basketball player]	raptors	other	0.6
+[basketball player]	pistons	other	0.6
+[basketball player]	nfl	other	0.6
+[basketball player]	net worth 2017	other	0.6
+[basketball player]	nba draft	other	0.6
+[basketball player]	miami heat	other	0.6
+[basketball player]	jersey	other	0.6
+[basketball player]	hawks	other	0.6
+[basketball player]	free agent	other	0.6
+[basketball player]	euroleague	other	0.6
+[basketball player]	defense	other	0.6
+[basketball player]	cards	other	0.6
+[basketball player]	camp 2015	other	0.6
+[basketball player]	bucks	other	0.6
+[beer country region]	weather	service	1.0
+[beer country region]	news	service	1.0
+[beer country region]	map	service	1.0
+[beer country region]	holidays	service	1.0
+[beer country region]	tourism	service	0.6
+[beer country region]	language	service	0.6
+[beer country region]	population	property	1.0
+[beer country region]	time	property	0.75
+[beer country region]	flag	property	0.75
+[beer country region]	airport	property	0.75
+[beer country region]	league	property	0.6
+[beer country region]	fc	other	0.6
+[belief]	movie	service	0.75
+[belief]	verses	service	0.6
+[belief]	pronunciation	service	0.6
+[belief]	definition	service	0.6
+[belief]	pdf	other	1.0
+[belief]	meaning	other	0.6
+[belief]	adalah	other	0.6
+[blogger]	youtube	website	1.0
+[blogger]	wikipedia	website	1.0
+[blogger]	wiki	website	1.0
+[blogger]	website	website	1.0
+[blogger]	twitter	website	1.0
+[blogger]	linkedin	website	1.0
+[blogger]	imdb	website	1.0
+[blogger]	facebook	website	1.0
+[blogger]	instagram	website	1.0
+[blogger]	cnn	website	0.75
+[blogger]	blog	website	0.75
+[blogger]	snapchat	website	0.6
+[blogger]	ted talk	service	1.0
+[blogger]	recipes	service	1.0
+[blogger]	tour	service	0.75
+[blogger]	movies	service	0.75
+[blogger]	movie	service	0.75
+[blogger]	interview	service	0.75
+[blogger]	books	service	0.75
+[blogger]	bio	service	0.75
+[blogger]	songs	service	0.6
+[blogger]	show	service	0.6
+[blogger]	podcast	service	0.6
+[blogger]	patreon	service	0.6
+[blogger]	biography	service	0.6
+[blogger]	salary	property	1.0
+[blogger]	married	property	1.0
+[blogger]	height	property	1.0
+[blogger]	family	property	1.0
+[blogger]	age	property	1.0
+[blogger]	sister	property	0.75
+[blogger]	parents	property	0.75
+[blogger]	net worth	property	0.75
+[blogger]	house	property	0.75
+[blogger]	death	property	0.75
+[blogger]	book	property	0.75
+[blogger]	wife	property	0.6
+[blogger]	son	property	0.6
+[blogger]	kids	property	0.6
+[blogger]	husband	property	0.6
+[blogger]	baby	property	0.6
+[blogger]	2017	other	1.0
+[blogger]	now	other	0.6
+[blogger]	md	other	0.6
+[blogger]	2016	other	0.6
+[business operation]	youtube	website	1.0
+[business operation]	wikipedia	website	1.0
+[business operation]	wiki	website	1.0
+[business operation]	website	website	1.0
+[business operation]	twitter	website	1.0
+[business operation]	reddit	website	1.0
+[business operation]	linkedin	website	1.0
+[business operation]	glassdoor	website	1.0
+[business operation]	bloomberg	website	1.0
+[business operation]	web check in	website	0.75
+[business operation]	clg wiki	website	0.75
+[business operation]	logopedia	website	0.6
+[business operation]	videos	service	1.0
+[business operation]	tv	service	1.0
+[business operation]	tracking	service	1.0
+[business operation]	tour	service	1.0
+[business operation]	tickets	service	1.0
+[business operation]	support	service	1.0
+[business operation]	subsidiaries	service	1.0
+[business operation]	standings	service	1.0
+[business operation]	shows	service	1.0
+[business operation]	search	service	1.0
+[business operation]	schedule	service	1.0
+[business operation]	reviews	service	1.0
+[business operation]	results	service	1.0
+[business operation]	recruitment 2017	service	1.0
+[business operation]	promo code	service	1.0
+[business operation]	promo	service	1.0
+[business operation]	prices	service	1.0
+[business operation]	phones	service	1.0
+[business operation]	pdf	service	1.0
+[business operation]	online check in	service	1.0
+[business operation]	offer	service	1.0
+[business operation]	menu	service	1.0
+[business operation]	map	service	1.0
+[business operation]	jobs	service	1.0
+[business operation]	investor relations	service	1.0
+[business operation]	internships	service	1.0
+[business operation]	internship	service	1.0
+[business operation]	for sale	service	1.0
+[business operation]	flight	service	1.0
+[business operation]	films	service	1.0
+[business operation]	download	service	1.0
+[business operation]	delivery	service	1.0
+[business operation]	deals	service	1.0
+[business operation]	customer care	service	1.0
+[business operation]	coupons	service	1.0
+[business operation]	check in	service	1.0
+[business operation]	careers	service	1.0
+[business operation]	career	service	1.0
+[business operation]	business class	service	1.0
+[business operation]	brands	service	1.0
+[business operation]	booking	service	1.0
+[business operation]	baggage allowance	service	1.0
+[business operation]	annual report	service	1.0
+[business operation]	watch	service	0.75
+[business operation]	training	service	0.75
+[business operation]	store	service	0.75
+[business operation]	stadium	service	0.75
+[business operation]	squad	service	0.75
+[business operation]	shop	service	0.75
+[business operation]	sale	service	0.75
+[business operation]	review	service	0.75
+[business operation]	products	service	0.75
+[business operation]	press	service	0.75
+[business operation]	plans	service	0.75
+[business operation]	parts	service	0.75
+[business operation]	nutrition	service	0.75
+[business operation]	news	service	0.75
+[business operation]	near me	service	0.75
+[business operation]	movies	service	0.75
+[business operation]	members	service	0.75
+[business operation]	medical center	service	0.75
+[business operation]	locations	service	0.75
+[business operation]	list	service	0.75
+[business operation]	library	service	0.75
+[business operation]	laptops	service	0.75
+[business operation]	holidays	service	0.75
+[business operation]	games	service	0.75
+[business operation]	flights	service	0.75
+[business operation]	dividend	service	0.75
+[business operation]	customer service	service	0.75
+[business operation]	case study	service	0.75
+[business operation]	carry on	service	0.75
+[business operation]	bank	service	0.75
+[business operation]	backpack	service	0.75
+[business operation]	app	service	0.75
+[business operation]	annual report 2016	service	0.75
+[business operation]	albums	service	0.75
+[business operation]	admissions	service	0.75
+[business operation]	watches	service	0.6
+[business operation]	television	service	0.6
+[business operation]	teams	service	0.6
+[business operation]	shoes	service	0.6
+[business operation]	school of medicine	service	0.6
+[business operation]	ranking	service	0.6
+[business operation]	perfume	service	0.6
+[business operation]	partners	service	0.6
+[business operation]	ipo	service	0.6
+[business operation]	india pvt ltd	service	0.6
+[business operation]	hospital	service	0.6
+[business operation]	fixtures	service	0.6
+[business operation]	courses	service	0.6
+[business operation]	channel	service	0.6
+[business operation]	center	service	0.6
+[business operation]	cargo	service	0.6
+[business operation]	campus	service	0.6
+[business operation]	baggage	service	0.6
+[business operation]	artists	service	0.6
+[business operation]	share price	property	1.0
+[business operation]	revenue	property	1.0
+[business operation]	phone number	property	1.0
+[business operation]	owner	property	1.0
+[business operation]	number	property	1.0
+[business operation]	net worth	property	1.0
+[business operation]	logo	property	1.0
+[business operation]	inc	property	1.0
+[business operation]	hours	property	1.0
+[business operation]	founder	property	1.0
+[business operation]	foundation	property	1.0
+[business operation]	fleet	property	1.0
+[business operation]	email	property	1.0
+[business operation]	definition	property	1.0
+[business operation]	contact number	property	1.0
+[business operation]	ceo	property	1.0
+[business operation]	address	property	1.0
+[business operation]	worth	property	0.75
+[business operation]	stock	property	0.75
+[business operation]	score	property	0.75
+[business operation]	salary	property	0.75
+[business operation]	routing number	property	0.75
+[business operation]	price	property	0.75
+[business operation]	mobile	property	0.75
+[business operation]	mail	property	0.75
+[business operation]	location	property	0.75
+[business operation]	headquarters	property	0.75
+[business operation]	group	property	0.75
+[business operation]	contact	property	0.75
+[business operation]	account	property	0.75
+[business operation]	acceptance rate	property	0.75
+[business operation]	stock price	property	0.6
+[business operation]	outlet	property	0.6
+[business operation]	llc	property	0.6
+[business operation]	limited	property	0.6
+[business operation]	history	property	0.6
+[business operation]	fees	property	0.6
+[business operation]	company	property	0.6
+[business operation]	characters	property	0.6
+[business operation]	anime	property	0.6
+[business operation]	usa	other	1.0
+[business operation]	us	other	1.0
+[business operation]	uae	other	1.0
+[business operation]	toronto	other	1.0
+[business operation]	suv	other	1.0
+[business operation]	sunglasses	other	1.0
+[business operation]	south africa	other	1.0
+[business operation]	singapore	other	1.0
+[business operation]	pune	other	1.0
+[business operation]	players	other	1.0
+[business operation]	philippines	other	1.0
+[business operation]	pakistan	other	1.0
+[business operation]	orlando	other	1.0
+[business operation]	nz	other	1.0
+[business operation]	nyc	other	1.0
+[business operation]	nigeria	other	1.0
+[business operation]	medical school	other	1.0
+[business operation]	malaysia	other	1.0
+[business operation]	london	other	1.0
+[business operation]	jersey	other	1.0
+[business operation]	indonesia	other	1.0
+[business operation]	india	other	1.0
+[business operation]	houston	other	1.0
+[business operation]	football	other	1.0
+[business operation]	chicago	other	1.0
+[business operation]	australia	other	1.0
+[business operation]	athletics	other	1.0
+[business operation]	2016	other	1.0
+[business operation]	sports	other	1.0
+[business operation]	trump	other	0.75
+[business operation]	pa program	other	0.75
+[business operation]	now	other	0.75
+[business operation]	new york	other	0.75
+[business operation]	museum	other	0.75
+[business operation]	live	other	0.75
+[business operation]	ireland	other	0.75
+[business operation]	in india	other	0.75
+[business operation]	chennai	other	0.75
+[business operation]	bangalore	other	0.75
+[business operation]	uk	other	0.6
+[business operation]	studios	other	0.6
+[business operation]	studio	other	0.6
+[business operation]	scandal	other	0.6
+[business operation]	music	other	0.6
+[business operation]	movie	other	0.6
+[business operation]	majors	other	0.6
+[business operation]	japan	other	0.6
+[business operation]	dubai	other	0.6
+[business operation]	crash	other	0.6
+[business operation]	cars	other	0.6
+[business operation]	car	other	0.6
+[business operation]	canada	other	0.6
+[business operation]	bookstore	other	0.6
+[business operation]	books	other	0.6
+[business operation]	baseball	other	0.6
+[business operation]	bags	other	0.6
+[business operation]	2017	other	0.6
+[chef]	youtube	website	1.0
+[chef]	wikipedia	website	1.0
+[chef]	wiki	website	1.0
+[chef]	twitter	website	1.0
+[chef]	linkedin	website	1.0
+[chef]	instagram	website	1.0
+[chef]	facebook	website	1.0
+[chef]	wedding	service	1.0
+[chef]	show	service	1.0
+[chef]	recipes	service	1.0
+[chef]	quotes	service	1.0
+[chef]	menu	service	1.0
+[chef]	great british menu	service	1.0
+[chef]	food	service	1.0
+[chef]	facts	service	1.0
+[chef]	cookware	service	1.0
+[chef]	cookbooks	service	1.0
+[chef]	cookbook	service	1.0
+[chef]	chicken recipes	service	1.0
+[chef]	books	service	1.0
+[chef]	book	service	1.0
+[chef]	restaurants	service	0.75
+[chef]	restaurant	service	0.75
+[chef]	recipe	service	0.75
+[chef]	pancakes	service	0.75
+[chef]	meatballs	service	0.75
+[chef]	fried chicken	service	0.75
+[chef]	cakes	service	0.75
+[chef]	burger	service	0.75
+[chef]	bread	service	0.75
+[chef]	attorney	service	0.75
+[chef]	steak	service	0.6
+[chef]	ribs	service	0.6
+[chef]	pulled pork	service	0.6
+[chef]	pub	service	0.6
+[chef]	pizza	service	0.6
+[chef]	chocolate cake	service	0.6
+[chef]	brownies	service	0.6
+[chef]	blog	service	0.6
+[chef]	biografia	service	0.6
+[chef]	wife	property	1.0
+[chef]	married	property	1.0
+[chef]	husband	property	1.0
+[chef]	height	property	1.0
+[chef]	daughter	property	1.0
+[chef]	age	property	1.0
+[chef]	son	property	0.75
+[chef]	obituary	property	0.75
+[chef]	family	property	0.75
+[chef]	chef	property	0.75
+[chef]	new restaurant	property	0.6
+[chef]	masterchef	property	0.6
+[chef]	house	property	0.6
+[chef]	death	property	0.6
+[chef]	biography	property	0.6
+[chef]	bio	property	0.6
+[chef]	actor	property	0.6
+[chef]	toronto	other	1.0
+[chef]	nyc	other	1.0
+[chef]	london	other	1.0
+[chef]	dc	other	1.0
+[chef]	baby	other	1.0
+[chef]	2017	other	1.0
+[chef]	hawaii	other	0.75
+[chef]	dubai	other	0.75
+[chef]	singapore	other	0.6
+[chef]	restaurant nyc	other	0.6
+[chef]	las vegas	other	0.6
+[chemical compound]	reddit	website	1.0
+[chemical compound]	amazon	website	0.75
+[chemical compound]	walmart	service	1.0
+[chemical compound]	test	service	1.0
+[chemical compound]	supplement	service	1.0
+[chemical compound]	reviews	service	1.0
+[chemical compound]	reaction	service	1.0
+[chemical compound]	for sale	service	1.0
+[chemical compound]	buy	service	1.0
+[chemical compound]	tablets	service	0.75
+[chemical compound]	suppliers	service	0.75
+[chemical compound]	storage	service	0.75
+[chemical compound]	sources	service	0.75
+[chemical compound]	solution	service	0.75
+[chemical compound]	rich foods	service	0.75
+[chemical compound]	nursing implications	service	0.75
+[chemical compound]	mechanism	service	0.75
+[chemical compound]	injections	service	0.75
+[chemical compound]	indication	service	0.75
+[chemical compound]	in cosmetics	service	0.75
+[chemical compound]	hair	service	0.75
+[chemical compound]	filter	service	0.75
+[chemical compound]	coupon	service	0.75
+[chemical compound]	blood test	service	0.75
+[chemical compound]	teeth	service	0.6
+[chemical compound]	supplements	service	0.6
+[chemical compound]	sleep	service	0.6
+[chemical compound]	review	service	0.6
+[chemical compound]	pairs with	service	0.6
+[chemical compound]	online	service	0.6
+[chemical compound]	gel	service	0.6
+[chemical compound]	for cats	service	0.6
+[chemical compound]	ear drops	service	0.6
+[chemical compound]	drug class	service	0.6
+[chemical compound]	dogs	service	0.6
+[chemical compound]	definition biology	service	0.6
+[chemical compound]	crystals	service	0.6
+[chemical compound]	structural formula	property	1.0
+[chemical compound]	solubility	property	1.0
+[chemical compound]	shape	property	1.0
+[chemical compound]	products	property	1.0
+[chemical compound]	price	property	1.0
+[chemical compound]	otc	property	1.0
+[chemical compound]	normal range	property	1.0
+[chemical compound]	nitrate	property	1.0
+[chemical compound]	molecular weight	property	1.0
+[chemical compound]	metabolism	property	1.0
+[chemical compound]	melting point	property	1.0
+[chemical compound]	label	property	1.0
+[chemical compound]	iv	property	1.0
+[chemical compound]	intolerance	property	1.0
+[chemical compound]	hydroxide	property	1.0
+[chemical compound]	hexahydrate	property	1.0
+[chemical compound]	fuel	property	1.0
+[chemical compound]	for men	property	1.0
+[chemical compound]	for dogs	property	1.0
+[chemical compound]	for acne	property	1.0
+[chemical compound]	density	property	1.0
+[chemical compound]	definition	property	1.0
+[chemical compound]	dangers	property	1.0
+[chemical compound]	coverage	property	1.0
+[chemical compound]	common name	property	1.0
+[chemical compound]	brand name	property	1.0
+[chemical compound]	action	property	1.0
+[chemical compound]	+ hydrochloric acid	property	1.0
+[chemical compound]	ph	property	1.0
+[chemical compound]	toxicity	property	0.75
+[chemical compound]	toothpaste	property	0.75
+[chemical compound]	tablet	property	0.75
+[chemical compound]	synthesis	property	0.75
+[chemical compound]	sulphate	property	0.75
+[chemical compound]	structure	property	0.75
+[chemical compound]	smell	property	0.75
+[chemical compound]	skin	property	0.75
+[chemical compound]	resistance	property	0.75
+[chemical compound]	reactions	property	0.75
+[chemical compound]	pronunciation	property	0.75
+[chemical compound]	ppt	property	0.75
+[chemical compound]	powder	property	0.75
+[chemical compound]	polymer	property	0.75
+[chemical compound]	pka	property	0.75
+[chemical compound]	pills	property	0.75
+[chemical compound]	peel	property	0.75
+[chemical compound]	pdf	property	0.75
+[chemical compound]	patch	property	0.75
+[chemical compound]	paste	property	0.75
+[chemical compound]	nmr	property	0.75
+[chemical compound]	nanoparticles	property	0.75
+[chemical compound]	mouthwash	property	0.75
+[chemical compound]	molecule	property	0.75
+[chemical compound]	meaning in hindi	property	0.75
+[chemical compound]	meaning	property	0.75
+[chemical compound]	lotion	property	0.75
+[chemical compound]	level	property	0.75
+[chemical compound]	hydrolysis	property	0.75
+[chemical compound]	hydrate	property	0.75
+[chemical compound]	high	property	0.75
+[chemical compound]	hcl	property	0.75
+[chemical compound]	hazards	property	0.75
+[chemical compound]	gluten free	property	0.75
+[chemical compound]	generic	property	0.75
+[chemical compound]	free	property	0.75
+[chemical compound]	formula	property	0.75
+[chemical compound]	for sleep	property	0.75
+[chemical compound]	fertilizer	property	0.75
+[chemical compound]	equation	property	0.75
+[chemical compound]	enema	property	0.75
+[chemical compound]	effects	property	0.75
+[chemical compound]	drug	property	0.75
+[chemical compound]	disease	property	0.75
+[chemical compound]	decomposition	property	0.75
+[chemical compound]	cycle	property	0.75
+[chemical compound]	cost	property	0.75
+[chemical compound]	complex	property	0.75
+[chemical compound]	color	property	0.75
+[chemical compound]	class	property	0.75
+[chemical compound]	buffer	property	0.75
+[chemical compound]	boiling point	property	0.75
+[chemical compound]	antagonist	property	0.75
+[chemical compound]	and sodium hydroxide	property	0.75
+[chemical compound]	and hydrochloric acid	property	0.75
+[chemical compound]	adalah	property	0.75
+[chemical compound]	uses	property	0.6
+[chemical compound]	treatment	property	0.6
+[chemical compound]	therapy	property	0.6
+[chemical compound]	tartrate	property	0.6
+[chemical compound]	suspension	property	0.6
+[chemical compound]	spray	property	0.6
+[chemical compound]	sodium salt	property	0.6
+[chemical compound]	side effects	property	0.6
+[chemical compound]	shampoo	property	0.6
+[chemical compound]	safety	property	0.6
+[chemical compound]	receptor	property	0.6
+[chemical compound]	properties	property	0.6
+[chemical compound]	pregnancy	property	0.6
+[chemical compound]	polarity	property	0.6
+[chemical compound]	polar or nonpolar	property	0.6
+[chemical compound]	phosphate	property	0.6
+[chemical compound]	package insert	property	0.6
+[chemical compound]	nasal spray	property	0.6
+[chemical compound]	mechanism of action	property	0.6
+[chemical compound]	lewis structure	property	0.6
+[chemical compound]	levels	property	0.6
+[chemical compound]	kinase	property	0.6
+[chemical compound]	keto	property	0.6
+[chemical compound]	isomers	property	0.6
+[chemical compound]	ion formula	property	0.6
+[chemical compound]	in pregnancy	property	0.6
+[chemical compound]	hydrochloride	property	0.6
+[chemical compound]	hs code	property	0.6
+[chemical compound]	heptahydrate	property	0.6
+[chemical compound]	functional group	property	0.6
+[chemical compound]	formation	property	0.6
+[chemical compound]	foods	property	0.6
+[chemical compound]	foam	property	0.6
+[chemical compound]	fabric	property	0.6
+[chemical compound]	eye drops	property	0.6
+[chemical compound]	explosion	property	0.6
+[chemical compound]	er	property	0.6
+[chemical compound]	dose	property	0.6
+[chemical compound]	dosage	property	0.6
+[chemical compound]	dihydrate	property	0.6
+[chemical compound]	depression	property	0.6
+[chemical compound]	coating	property	0.6
+[chemical compound]	citrate	property	0.6
+[chemical compound]	chloride	property	0.6
+[chemical compound]	charge	property	0.6
+[chemical compound]	cas	property	0.6
+[chemical compound]	car	property	0.6
+[chemical compound]	cancer	property	0.6
+[chemical compound]	beer	property	0.6
+[chemical compound]	anhydrous	property	0.6
+[chemical compound]	allergy	property	0.6
+[chemical compound]	acne	property	0.6
+[chemical compound]	acid or base	property	0.6
+[chemical compound]	usa	other	1.0
+[chemical compound]	canada	other	1.0
+[chemical compound]	abuse	other	1.0
+[chemical compound]	5mg	other	1.0
+[chemical compound]	50 mg	other	1.0
+[chemical compound]	10	other	1.0
+[chemical compound]	uk	other	0.75
+[chemical compound]	lyrics	other	0.75
+[chemical compound]	in water	other	0.75
+[chemical compound]	carbonate	other	0.75
+[chemical compound]	australia	other	0.75
+[chemical compound]	and alcohol	other	0.75
+[chemical compound]	500mg	other	0.75
+[chemical compound]	10mg	other	0.75
+[chemical compound]	10 mg	other	0.75
+[chemical compound]	oxide	other	0.6
+[chemical compound]	ir	other	0.6
+[chemical compound]	bad	other	0.6
+[comic book publisher]	wiki	website	1.0
+[comic book publisher]	website	website	1.0
+[comic book publisher]	twitter	website	1.0
+[comic book publisher]	facebook	website	1.0
+[comic book publisher]	submissions	service	1.0
+[comic book publisher]	publishing	service	1.0
+[comic book publisher]	jobs	service	1.0
+[comic book publisher]	games	service	1.0
+[comic book publisher]	comics	service	0.75
+[comic book publisher]	characters	service	0.75
+[comic book publisher]	superheroes	service	0.6
+[comic book publisher]	online	service	0.6
+[comic book publisher]	contact	service	0.6
+[comic book publisher]	careers	service	0.6
+[comic book publisher]	ltd	property	1.0
+[comic book publisher]	logo	property	1.0
+[comic book publisher]	address	property	1.0
+[comic book publisher]	value	property	0.75
+[comic book publisher]	inc	property	0.6
+[comic book publisher]	movies	other	0.6
+[company]	wikipedia	website	1.0
+[company]	wiki	website	1.0
+[company]	website	website	1.0
+[company]	linkedin	website	1.0
+[company]	facebook	website	1.0
+[company]	parts	service	1.0
+[company]	news	service	1.0
+[company]	models	service	1.0
+[company]	jobs	service	1.0
+[company]	investor relations	service	1.0
+[company]	careers	service	1.0
+[company]	share price	service	0.75
+[company]	for sale	service	0.75
+[company]	cars	service	0.75
+[company]	museum	service	0.6
+[company]	stock	property	1.0
+[company]	logo	property	1.0
+[company]	company	property	1.0
+[company]	ceo	property	1.0
+[company]	address	property	1.0
+[company]	ltd	property	0.75
+[company]	limited	property	0.75
+[company]	headquarters	property	0.75
+[company]	truck	property	0.6
+[company]	engine	property	0.6
+[company]	south africa	other	1.0
+[company]	india	other	1.0
+[company]	inc	other	1.0
+[company]	canada	other	1.0
+[company]	2017	other	1.0
+[company]	philippines	other	0.75
+[company]	car	other	0.75
+[company]	london	other	0.6
+[company]	in india	other	0.6
+[currency]	wiki	website	1.0
+[currency]	ebay	website	1.0
+[currency]	to rand	service	1.0
+[currency]	to pounds	service	1.0
+[currency]	to euro	service	1.0
+[currency]	to egp	service	1.0
+[currency]	to dollars	service	1.0
+[currency]	to dollar	service	1.0
+[currency]	to cad	service	1.0
+[currency]	to australian dollar	service	1.0
+[currency]	to aud	service	1.0
+[currency]	note	service	1.0
+[currency]	news	service	1.0
+[currency]	for sale	service	1.0
+[currency]	exchange	service	1.0
+[currency]	bill	service	1.0
+[currency]	to zar	service	0.75
+[currency]	to philippine peso	service	0.75
+[currency]	to nzd	service	0.75
+[currency]	to ksh	service	0.75
+[currency]	to indian rupee	service	0.75
+[currency]	to gbp	service	0.75
+[currency]	exchange rate	service	0.75
+[currency]	definition	service	0.75
+[currency]	conversion	service	0.75
+[currency]	to sar	service	0.6
+[currency]	to naira	service	0.6
+[currency]	to inr	service	0.6
+[currency]	to canadian dollar	service	0.6
+[currency]	history	service	0.6
+[currency]	euro	service	0.6
+[currency]	value	property	1.0
+[currency]	to usd	property	1.0
+[currency]	france	property	1.0
+[currency]	dollar	property	1.0
+[currency]	currency symbol	property	1.0
+[currency]	symbol	property	0.75
+[currency]	coins	property	0.75
+[currency]	price	property	0.6
+[currency]	currency	property	0.6
+[currency]	basel	property	0.6
+[currency]	banknotes	property	0.6
+[currency]	to myr	other	1.0
+[currency]	tree	other	0.6
+[currency]	to sgd	other	0.6
+[currency]	1923	other	0.6
+[disease]	youtube	website	1.0
+[disease]	reddit	website	1.0
+[disease]	wiki	website	0.6
+[disease]	x ray	service	1.0
+[disease]	usmle	service	1.0
+[disease]	uptodate	service	1.0
+[disease]	ultrasound	service	1.0
+[disease]	traits	service	1.0
+[disease]	tablets	service	1.0
+[disease]	symptoms	service	1.0
+[disease]	stories	service	1.0
+[disease]	review	service	1.0
+[disease]	remedies	service	1.0
+[disease]	prevention	service	1.0
+[disease]	pregnancy	service	1.0
+[disease]	pictures	service	1.0
+[disease]	photos	service	1.0
+[disease]	medications	service	1.0
+[disease]	massage	service	1.0
+[disease]	management	service	1.0
+[disease]	is caused by	service	1.0
+[disease]	in cattle	service	1.0
+[disease]	in babies	service	1.0
+[disease]	images	service	1.0
+[disease]	histology	service	1.0
+[disease]	grading	service	1.0
+[disease]	exercises	service	1.0
+[disease]	effects	service	1.0
+[disease]	diet	service	1.0
+[disease]	define	service	1.0
+[disease]	cure	service	1.0
+[disease]	cream	service	1.0
+[disease]	cases	service	1.0
+[disease]	assessment	service	1.0
+[disease]	acls	service	1.0
+[disease]	workup	service	0.75
+[disease]	video	service	0.75
+[disease]	type 3	service	0.75
+[disease]	treatment	service	0.75
+[disease]	tongue	service	0.75
+[disease]	surgery cost	service	0.75
+[disease]	stretches	service	0.75
+[disease]	splint	service	0.75
+[disease]	society	service	0.75
+[disease]	risk factors	service	0.75
+[disease]	repair	service	0.75
+[disease]	removal	service	0.75
+[disease]	relief	service	0.75
+[disease]	radiology	service	0.75
+[disease]	quiz	service	0.75
+[disease]	prognosis	service	0.75
+[disease]	patient uk	service	0.75
+[disease]	pathology outlines	service	0.75
+[disease]	mri	service	0.75
+[disease]	mnemonic	service	0.75
+[disease]	medication	service	0.75
+[disease]	meaning in urdu	service	0.75
+[disease]	meaning	service	0.75
+[disease]	list	service	0.75
+[disease]	labs	service	0.75
+[disease]	journal	service	0.75
+[disease]	inheritance	service	0.75
+[disease]	in spanish	service	0.75
+[disease]	in adults	service	0.75
+[disease]	history	service	0.75
+[disease]	guidelines	service	0.75
+[disease]	genetics	service	0.75
+[disease]	drugs	service	0.75
+[disease]	disorders	service	0.75
+[disease]	differential diagnosis	service	0.75
+[disease]	diagnosis	service	0.75
+[disease]	definition	service	0.75
+[disease]	complications	service	0.75
+[disease]	chart	service	0.75
+[disease]	case study	service	0.75
+[disease]	adults	service	0.75
+[disease]	virus	service	0.6
+[disease]	vaccine	service	0.6
+[disease]	triad	service	0.6
+[disease]	testing	service	0.6
+[disease]	test	service	0.6
+[disease]	surgery	service	0.6
+[disease]	statistics	service	0.6
+[disease]	screening	service	0.6
+[disease]	ribbon	service	0.6
+[disease]	remedy	service	0.6
+[disease]	quotes	service	0.6
+[disease]	pronunciation	service	0.6
+[disease]	pain	service	0.6
+[disease]	on face	service	0.6
+[disease]	movie	service	0.6
+[disease]	medscape	service	0.6
+[disease]	knee	service	0.6
+[disease]	in women	service	0.6
+[disease]	in cats	service	0.6
+[disease]	girl	service	0.6
+[disease]	eyes	service	0.6
+[disease]	dsm 5	service	0.6
+[disease]	dog	service	0.6
+[disease]	brain	service	0.6
+[disease]	attack	service	0.6
+[disease]	association	service	0.6
+[disease]	ankle	service	0.6
+[disease]	types	property	1.0
+[disease]	toxin	property	1.0
+[disease]	syndrome	property	1.0
+[disease]	survival rate	property	1.0
+[disease]	stage 4	property	1.0
+[disease]	signs	property	1.0
+[disease]	in men	property	1.0
+[disease]	anemia	property	1.0
+[disease]	type 1	property	0.75
+[disease]	stroke	property	0.75
+[disease]	recovery	property	0.75
+[disease]	pronounce	property	0.75
+[disease]	pathophysiology	property	0.75
+[disease]	liver	property	0.75
+[disease]	in hindi	property	0.75
+[disease]	heart	property	0.75
+[disease]	ecg	property	0.75
+[disease]	dogs	property	0.75
+[disease]	criteria	property	0.75
+[disease]	cause	property	0.75
+[disease]	book	property	0.75
+[disease]	uk	property	0.6
+[disease]	type 2	property	0.6
+[disease]	synonym	property	0.6
+[disease]	staging	property	0.6
+[disease]	skin	property	0.6
+[disease]	signs and symptoms	property	0.6
+[disease]	scale	property	0.6
+[disease]	rash	property	0.6
+[disease]	occurs when	property	0.6
+[disease]	meaning in tamil	property	0.6
+[disease]	is characterized by	property	0.6
+[disease]	in pregnancy	property	0.6
+[disease]	in dogs	property	0.6
+[disease]	icd 10 code	property	0.6
+[disease]	hip	property	0.6
+[disease]	hands	property	0.6
+[disease]	facts	property	0.6
+[disease]	face	property	0.6
+[disease]	eye	property	0.6
+[disease]	disorder	property	0.6
+[disease]	disease	property	0.6
+[disease]	band	property	0.6
+[disease]	baby	property	0.6
+[disease]	autism	property	0.6
+[disease]	australia	property	0.6
+[disease]	and autism	property	0.6
+[disease]	age	property	0.6
+[disease]	dsm	other	1.0
+[disease]	nz	other	0.75
+[disease]	lyrics	other	0.75
+[disease]	ppt	other	0.6
+[disease]	pdf	other	0.6
+[disease]	oral	other	0.6
+[disease]	icd 9	other	0.6
+[disease]	example	other	0.6
+[election]	map	service	1.0
+[election]	results	service	0.75
+[election]	predictions	service	0.75
+[election]	polls	service	0.75
+[election]	exit polls	service	0.75
+[election]	turnout	service	0.6
+[election]	results 2014	service	0.6
+[election]	2010 results by county	service	0.6
+[election]	candidates	property	1.0
+[event]	youtube	website	1.0
+[event]	wikipedia	website	1.0
+[event]	wiki	website	1.0
+[event]	reddit	website	1.0
+[event]	quizlet	website	1.0
+[event]	site	website	0.6
+[event]	watch online	service	1.0
+[event]	videos	service	1.0
+[event]	video	service	1.0
+[event]	uniforms	service	1.0
+[event]	transcript	service	1.0
+[event]	track and field results	service	1.0
+[event]	tour	service	1.0
+[event]	statistics	service	1.0
+[event]	score	service	1.0
+[event]	schedule	service	1.0
+[event]	results	service	1.0
+[event]	result	service	1.0
+[event]	reasons	service	1.0
+[event]	quotes	service	1.0
+[event]	qualification afc	service	1.0
+[event]	qualification	service	1.0
+[event]	primary sources	service	1.0
+[event]	predictions	service	1.0
+[event]	polls	service	1.0
+[event]	poem	service	1.0
+[event]	opening ceremony	service	1.0
+[event]	news	service	1.0
+[event]	names	service	1.0
+[event]	movies	service	1.0
+[event]	movie	service	1.0
+[event]	meme	service	1.0
+[event]	medal count	service	1.0
+[event]	highlights	service	1.0
+[event]	halftime show	service	1.0
+[event]	hairstyles	service	1.0
+[event]	groups	service	1.0
+[event]	footage	service	1.0
+[event]	final video	service	1.0
+[event]	final highlights	service	1.0
+[event]	figure skating	service	1.0
+[event]	facts	service	1.0
+[event]	explained	service	1.0
+[event]	effects	service	1.0
+[event]	decision	service	1.0
+[event]	deaths	service	1.0
+[event]	damage	service	1.0
+[event]	book	service	1.0
+[event]	battles	service	1.0
+[event]	ap euro	service	1.0
+[event]	animation	service	1.0
+[event]	aftermath	service	1.0
+[event]	map	service	1.0
+[event]	images	service	1.0
+[event]	trailer	service	0.75
+[event]	timeline	service	0.75
+[event]	stories	service	0.75
+[event]	stats	service	0.75
+[event]	squads	service	0.75
+[event]	song	service	0.75
+[event]	significance	service	0.75
+[event]	review	service	0.75
+[event]	report	service	0.75
+[event]	qualifying	service	0.75
+[event]	pictures	service	0.75
+[event]	photos	service	0.75
+[event]	outcome	service	0.75
+[event]	nominees and winners	service	0.75
+[event]	meaning in hindi	service	0.75
+[event]	lyrics	service	0.75
+[event]	leaders	service	0.75
+[event]	launch	service	0.75
+[event]	gymnastics	service	0.75
+[event]	generals	service	0.75
+[event]	game	service	0.75
+[event]	full movie	service	0.75
+[event]	full game	service	0.75
+[event]	for kids	service	0.75
+[event]	film	service	0.75
+[event]	fashion	service	0.75
+[event]	essay	service	0.75
+[event]	dvd	service	0.75
+[event]	download	service	0.75
+[event]	definition	service	0.75
+[event]	dates	service	0.75
+[event]	crew	service	0.75
+[event]	crash	service	0.75
+[event]	cost	service	0.75
+[event]	conspiracy	service	0.75
+[event]	causes	service	0.75
+[event]	cast	service	0.75
+[event]	cartoon	service	0.75
+[event]	candidates	service	0.75
+[event]	bbc	service	0.75
+[event]	article	service	0.75
+[event]	apush	service	0.75
+[event]	years	service	0.6
+[event]	who won	service	0.6
+[event]	weapons	service	0.6
+[event]	video game	service	0.6
+[event]	turnout	service	0.6
+[event]	tickets	service	0.6
+[event]	theories	service	0.6
+[event]	survivors	service	0.6
+[event]	summary	service	0.6
+[event]	roster	service	0.6
+[event]	qualification uefa	service	0.6
+[event]	primary source	service	0.6
+[event]	passengers	service	0.6
+[event]	painting	service	0.6
+[event]	museum	service	0.6
+[event]	motive	service	0.6
+[event]	mascot	service	0.6
+[event]	location	service	0.6
+[event]	impact	service	0.6
+[event]	hockey	service	0.6
+[event]	genocide	service	0.6
+[event]	full show	service	0.6
+[event]	final	service	0.6
+[event]	festival	service	0.6
+[event]	cause	service	0.6
+[event]	case study	service	0.6
+[event]	case brief	service	0.6
+[event]	case	service	0.6
+[event]	boxing	service	0.6
+[event]	box score	service	0.6
+[event]	basketball	service	0.6
+[event]	armor	service	0.6
+[event]	architecture	service	0.6
+[event]	philippines	property	1.0
+[event]	period	property	1.0
+[event]	monument	property	1.0
+[event]	medal table	property	1.0
+[event]	india	property	1.0
+[event]	france	property	1.0
+[event]	clothing	property	1.0
+[event]	winner	property	0.75
+[event]	ruling	property	0.75
+[event]	purpose	property	0.75
+[event]	poster	property	0.75
+[event]	podcast	property	0.75
+[event]	order of battle	property	0.75
+[event]	in hindi	property	0.75
+[event]	date	property	0.75
+[event]	year	property	0.6
+[event]	ww2	property	0.6
+[event]	ww1	property	0.6
+[event]	winners	property	0.6
+[event]	time period	property	0.6
+[event]	swimming	property	0.6
+[event]	ships	property	0.6
+[event]	place	property	0.6
+[event]	opening	property	0.6
+[event]	meaning	property	0.6
+[event]	in europe	property	0.6
+[event]	full match	property	0.6
+[event]	flag	property	0.6
+[event]	england	property	0.6
+[event]	casualties	property	0.6
+[event]	canada	property	0.6
+[event]	2016	other	1.0
+[event]	ppt	other	0.75
+[event]	mayday	other	0.75
+[event]	failure	other	0.75
+[event]	2010	other	0.75
+[event]	2	other	0.75
+[event]	pdf	other	0.6
+[event]	ball	other	0.6
+[event]	2017	other	0.6
+[exhibition venue]	wikipedia	website	1.0
+[exhibition venue]	wiki	website	1.0
+[exhibition venue]	twitter	website	1.0
+[exhibition venue]	tripadvisor	website	1.0
+[exhibition venue]	facebook	website	1.0
+[exhibition venue]	archdaily	website	1.0
+[exhibition venue]	instagram	website	0.75
+[exhibition venue]	volunteer	service	1.0
+[exhibition venue]	venue hire	service	1.0
+[exhibition venue]	tuition	service	1.0
+[exhibition venue]	tickets	service	1.0
+[exhibition venue]	shop	service	1.0
+[exhibition venue]	promo code	service	1.0
+[exhibition venue]	prices	service	1.0
+[exhibition venue]	plan	service	1.0
+[exhibition venue]	paintings	service	1.0
+[exhibition venue]	membership	service	1.0
+[exhibition venue]	london	service	1.0
+[exhibition venue]	jobs	service	1.0
+[exhibition venue]	internship	service	1.0
+[exhibition venue]	imax	service	1.0
+[exhibition venue]	groupon	service	1.0
+[exhibition venue]	exhibits	service	1.0
+[exhibition venue]	events	service	1.0
+[exhibition venue]	discount	service	1.0
+[exhibition venue]	coupons	service	1.0
+[exhibition venue]	coupon	service	1.0
+[exhibition venue]	cost	service	1.0
+[exhibition venue]	classes	service	1.0
+[exhibition venue]	store	service	0.75
+[exhibition venue]	reviews	service	0.75
+[exhibition venue]	price	service	0.75
+[exhibition venue]	history	service	0.75
+[exhibition venue]	free day	service	0.75
+[exhibition venue]	facts	service	0.75
+[exhibition venue]	exhibition	service	0.75
+[exhibition venue]	entry fee	service	0.75
+[exhibition venue]	entrance fee	service	0.75
+[exhibition venue]	contact	service	0.75
+[exhibition venue]	collection	service	0.75
+[exhibition venue]	archives	service	0.75
+[exhibition venue]	architecture	service	0.75
+[exhibition venue]	wedding cost	service	0.6
+[exhibition venue]	wedding	service	0.6
+[exhibition venue]	weather	service	0.6
+[exhibition venue]	review	service	0.6
+[exhibition venue]	restaurant	service	0.6
+[exhibition venue]	parking	service	0.6
+[exhibition venue]	museum	service	0.6
+[exhibition venue]	map	service	0.6
+[exhibition venue]	gift shop	service	0.6
+[exhibition venue]	concerts	service	0.6
+[exhibition venue]	cinema	service	0.6
+[exhibition venue]	architect	service	0.6
+[exhibition venue]	admission	service	0.6
+[exhibition venue]	postcode	property	1.0
+[exhibition venue]	director	property	1.0
+[exhibition venue]	address	property	1.0
+[exhibition venue]	washington	property	0.75
+[exhibition venue]	staff	property	0.75
+[exhibition venue]	opening times	property	0.75
+[exhibition venue]	logo	property	0.75
+[exhibition venue]	foundation	property	0.75
+[exhibition venue]	cafe	property	0.75
+[exhibition venue]	2017	property	0.75
+[exhibition venue]	ticket price	property	0.6
+[exhibition venue]	planetarium	property	0.6
+[exhibition venue]	opening hours	property	0.6
+[exhibition venue]	library	property	0.6
+[exhibition venue]	exhibitions	property	0.6
+[exhibition venue]	dc	property	0.6
+[exhibition venue]	nyc	other	0.75
+[film location]	wiki	website	1.0
+[film location]	craigslist	website	0.6
+[film location]	vacation	service	1.0
+[film location]	train	service	1.0
+[film location]	tour	service	1.0
+[film location]	times	service	1.0
+[film location]	tickets	service	1.0
+[film location]	schedule	service	1.0
+[film location]	rooms	service	1.0
+[film location]	restaurants	service	1.0
+[film location]	resorts	service	1.0
+[film location]	rentals	service	1.0
+[film location]	ranking	service	1.0
+[film location]	price	service	1.0
+[film location]	pizza	service	1.0
+[film location]	photos	service	1.0
+[film location]	pass	service	1.0
+[film location]	news	service	1.0
+[film location]	movie	service	1.0
+[film location]	minimum wage	service	1.0
+[film location]	lodging	service	1.0
+[film location]	italy map	service	1.0
+[film location]	housing	service	1.0
+[film location]	homes for sale	service	1.0
+[film location]	food	service	1.0
+[film location]	flights	service	1.0
+[film location]	ferry	service	1.0
+[film location]	events	service	1.0
+[film location]	cruise	service	1.0
+[film location]	court records	service	1.0
+[film location]	concerts	service	1.0
+[film location]	city	service	1.0
+[film location]	cities	service	1.0
+[film location]	car rental	service	1.0
+[film location]	beaches	service	1.0
+[film location]	bank	service	1.0
+[film location]	athletics	service	1.0
+[film location]	at night	service	1.0
+[film location]	arrivals	service	1.0
+[film location]	airport	service	1.0
+[film location]	wedding	service	0.75
+[film location]	weather	service	0.75
+[film location]	visitor center	service	0.75
+[film location]	visa	service	0.75
+[film location]	tours	service	0.75
+[film location]	tourism	service	0.75
+[film location]	time zone	service	0.75
+[film location]	things to do	service	0.75
+[film location]	state university	service	0.75
+[film location]	rides	service	0.75
+[film location]	restaurant	service	0.75
+[film location]	resort	service	0.75
+[film location]	public library	service	0.75
+[film location]	post	service	0.75
+[film location]	port	service	0.75
+[film location]	pictures	service	0.75
+[film location]	parking	service	0.75
+[film location]	metro map	service	0.75
+[film location]	menu	service	0.75
+[film location]	map	service	0.75
+[film location]	library	service	0.75
+[film location]	jobs	service	0.75
+[film location]	japan	service	0.75
+[film location]	images	service	0.75
+[film location]	hotels	service	0.75
+[film location]	hotel	service	0.75
+[film location]	holidays	service	0.75
+[film location]	history	service	0.75
+[film location]	garden	service	0.75
+[film location]	game	service	0.75
+[film location]	film festival	service	0.75
+[film location]	facts	service	0.75
+[film location]	cricket	service	0.75
+[film location]	construction	service	0.75
+[film location]	careers	service	0.75
+[film location]	camping	service	0.75
+[film location]	calendar	service	0.75
+[film location]	cafe	service	0.75
+[film location]	cabins	service	0.75
+[film location]	band	service	0.75
+[film location]	attractions	service	0.75
+[film location]	aquarium	service	0.75
+[film location]	apartments	service	0.75
+[film location]	airways	service	0.75
+[film location]	airport parking	service	0.75
+[film location]	weather october	service	0.6
+[film location]	tower	service	0.6
+[film location]	toll	service	0.6
+[film location]	theatre	service	0.6
+[film location]	sun	service	0.6
+[film location]	summer	service	0.6
+[film location]	station	service	0.6
+[film location]	song	service	0.6
+[film location]	shop	service	0.6
+[film location]	shooting	service	0.6
+[film location]	secretary of state	service	0.6
+[film location]	post office	service	0.6
+[film location]	police	service	0.6
+[film location]	park	service	0.6
+[film location]	obituaries	service	0.6
+[film location]	nightlife	service	0.6
+[film location]	movies	service	0.6
+[film location]	meaning	service	0.6
+[film location]	market	service	0.6
+[film location]	lottery	service	0.6
+[film location]	lodge	service	0.6
+[film location]	league	service	0.6
+[film location]	hospital	service	0.6
+[film location]	hiking	service	0.6
+[film location]	hike	service	0.6
+[film location]	high school	service	0.6
+[film location]	football	service	0.6
+[film location]	flag	service	0.6
+[film location]	elevation	service	0.6
+[film location]	dress code	service	0.6
+[film location]	dmv	service	0.6
+[film location]	departures	service	0.6
+[film location]	definition	service	0.6
+[film location]	deaths	service	0.6
+[film location]	council jobs	service	0.6
+[film location]	cathedral	service	0.6
+[film location]	capacity	service	0.6
+[film location]	canada	service	0.6
+[film location]	california	service	0.6
+[film location]	ca	service	0.6
+[film location]	beer	service	0.6
+[film location]	beach	service	0.6
+[film location]	baseball	service	0.6
+[film location]	bars	service	0.6
+[film location]	airport code	service	0.6
+[film location]	airlines	service	0.6
+[film location]	acceptance rate	service	0.6
+[film location]	zip code	property	1.0
+[film location]	united states	property	1.0
+[film location]	president	property	1.0
+[film location]	postal code	property	1.0
+[film location]	palace	property	1.0
+[film location]	location	property	1.0
+[film location]	house	property	1.0
+[film location]	earthquake	property	1.0
+[film location]	postcode	property	0.75
+[film location]	mall	property	0.75
+[film location]	island	property	0.75
+[film location]	interior	property	0.75
+[film location]	hours	property	0.75
+[film location]	entrance fee	property	0.75
+[film location]	currency	property	0.75
+[film location]	cast	property	0.75
+[film location]	campus	property	0.75
+[film location]	tuition	property	0.6
+[film location]	town hall	property	0.6
+[film location]	time	property	0.6
+[film location]	state fair	property	0.6
+[film location]	population	property	0.6
+[film location]	pool	property	0.6
+[film location]	metro	property	0.6
+[film location]	medical university	property	0.6
+[film location]	language	property	0.6
+[film location]	lake	property	0.6
+[film location]	grill	property	0.6
+[film location]	gardens	property	0.6
+[film location]	directions	property	0.6
+[film location]	cinema	property	0.6
+[film location]	bookstore	property	0.6
+[film location]	area code	property	0.6
+[film location]	architecture	property	0.6
+[film location]	today	other	1.0
+[film location]	nyc	other	1.0
+[film location]	ny	other	1.0
+[film location]	shoes	other	0.75
+[film location]	now	other	0.75
+[film location]	nj	other	0.75
+[film location]	fc	other	0.75
+[film location]	war	other	0.6
+[film location]	school district	other	0.6
+[film location]	rugby	other	0.6
+[film location]	lyrics	other	0.6
+[film location]	haunted	other	0.6
+[film location]	2017	other	0.6
+[food]	wiki	website	1.0
+[food]	amazon	website	1.0
+[food]	wrap	service	1.0
+[food]	soup	service	1.0
+[food]	shots	service	1.0
+[food]	sauce recipe	service	1.0
+[food]	recipes	service	1.0
+[food]	prices	service	1.0
+[food]	press	service	1.0
+[food]	pot	service	1.0
+[food]	pizza	service	1.0
+[food]	pancakes	service	1.0
+[food]	pan	service	1.0
+[food]	milk	service	1.0
+[food]	menu	service	1.0
+[food]	list	service	1.0
+[food]	leaves	service	1.0
+[food]	ingredients	service	1.0
+[food]	images	service	1.0
+[food]	ideas	service	1.0
+[food]	ice cream	service	1.0
+[food]	hut	service	1.0
+[food]	hair	service	1.0
+[food]	game	service	1.0
+[food]	for hair	service	1.0
+[food]	filling	service	1.0
+[food]	express	service	1.0
+[food]	drink	service	1.0
+[food]	delivery	service	1.0
+[food]	curry	service	1.0
+[food]	cupcakes	service	1.0
+[food]	coles	service	1.0
+[food]	care	service	1.0
+[food]	brands	service	1.0
+[food]	bars	service	1.0
+[food]	bake	service	1.0
+[food]	wine	service	0.75
+[food]	uses	service	0.75
+[food]	truck	service	0.75
+[food]	tea	service	0.75
+[food]	tacos	service	0.75
+[food]	stock	service	0.75
+[food]	steak	service	0.75
+[food]	soap	service	0.75
+[food]	shrimp	service	0.75
+[food]	seasoning	service	0.75
+[food]	sauce	service	0.75
+[food]	sandwich	service	0.75
+[food]	salsa	service	0.75
+[food]	rolls	service	0.75
+[food]	ricetta	service	0.75
+[food]	rice	service	0.75
+[food]	recette	service	0.75
+[food]	poisoning	service	0.75
+[food]	movie	service	0.75
+[food]	martini	service	0.75
+[food]	marinade	service	0.75
+[food]	in spanish	service	0.75
+[food]	history	service	0.75
+[food]	gluten free	service	0.75
+[food]	gluten	service	0.75
+[food]	garden	service	0.75
+[food]	frosting	service	0.75
+[food]	fries	service	0.75
+[food]	for sale	service	0.75
+[food]	for cooking	service	0.75
+[food]	foods	service	0.75
+[food]	food	service	0.75
+[food]	flour	service	0.75
+[food]	fish	service	0.75
+[food]	fillings	service	0.75
+[food]	facts	service	0.75
+[food]	easy	service	0.75
+[food]	dough	service	0.75
+[food]	dishes	service	0.75
+[food]	diet	service	0.75
+[food]	cocktails	service	0.75
+[food]	chutney	service	0.75
+[food]	cheesecake	service	0.75
+[food]	capsules	service	0.75
+[food]	cafe	service	0.75
+[food]	burgers	service	0.75
+[food]	batter	service	0.75
+[food]	sushi	service	0.6
+[food]	season	service	0.6
+[food]	salmon	service	0.6
+[food]	salad	service	0.6
+[food]	roll	service	0.6
+[food]	rezept	service	0.6
+[food]	recipe	service	0.6
+[food]	recept	service	0.6
+[food]	pastry	service	0.6
+[food]	pasta	service	0.6
+[food]	origin	service	0.6
+[food]	noodles	service	0.6
+[food]	muffins	service	0.6
+[food]	meme	service	0.6
+[food]	meal	service	0.6
+[food]	machine	service	0.6
+[food]	kitchen	service	0.6
+[food]	instant pot	service	0.6
+[food]	house	service	0.6
+[food]	healthy	service	0.6
+[food]	flower	service	0.6
+[food]	extract	service	0.6
+[food]	drinks	service	0.6
+[food]	cream	service	0.6
+[food]	cookies	service	0.6
+[food]	coffee	service	0.6
+[food]	chicken	service	0.6
+[food]	burrito	service	0.6
+[food]	brownies	service	0.6
+[food]	bread recipe	service	0.6
+[food]	bread	service	0.6
+[food]	beef	service	0.6
+[food]	bar	service	0.6
+[food]	alternative	service	0.6
+[food]	adalah	service	0.6
+[food]	sugar	property	1.0
+[food]	seed	property	1.0
+[food]	restaurant	property	1.0
+[food]	protein	property	1.0
+[food]	pork	property	1.0
+[food]	color	property	1.0
+[food]	caffeine	property	1.0
+[food]	box	property	1.0
+[food]	tesco	property	0.75
+[food]	sydney	property	0.75
+[food]	soda	property	0.75
+[food]	smoothie	property	0.75
+[food]	nutrition facts	property	0.75
+[food]	carbs	property	0.75
+[food]	baby	property	0.75
+[food]	uk	property	0.6
+[food]	singapore	property	0.6
+[food]	shop	property	0.6
+[food]	porridge	property	0.6
+[food]	jam	property	0.6
+[food]	in tamil	property	0.6
+[food]	gravy	property	0.6
+[food]	glasses	property	0.6
+[food]	factory	property	0.6
+[food]	essential oil	property	0.6
+[food]	cheese	property	0.6
+[food]	candy	property	0.6
+[food]	calories	property	0.6
+[food]	allergy	property	0.6
+[food]	shoes	other	1.0
+[food]	nz	other	1.0
+[food]	mix	other	1.0
+[food]	hill	other	1.0
+[food]	substitute	other	0.75
+[food]	sf	other	0.75
+[food]	dressing	other	0.75
+[food]	asda	other	0.75
+[food]	usa	other	0.6
+[food]	tattoo	other	0.6
+[food]	song	other	0.6
+[food]	rub	other	0.6
+[food]	lyrics	other	0.6
+[food]	king	other	0.6
+[food]	in urdu	other	0.6
+[food]	in oven	other	0.6
+[food]	bun	other	0.6
+[food]	balls	other	0.6
+[football match]	wikipedia	website	1.0
+[football match]	wiki	website	1.0
+[football match]	league final youtube	website	1.0
+[football match]	league final wiki	website	1.0
+[football match]	youtube	website	1.0
+[football match]	video	service	1.0
+[football match]	programme	service	1.0
+[football match]	league final highlights	service	1.0
+[football match]	league final	service	1.0
+[football match]	highlights	service	1.0
+[football match]	dvd	service	1.0
+[football match]	video finale	service	1.0
+[football match]	winners	service	0.75
+[football match]	ticket	service	0.75
+[football match]	scorers	service	0.75
+[football match]	score	service	0.75
+[football match]	quarter finals	service	0.75
+[football match]	pes	service	0.75
+[football match]	penalties	service	0.75
+[football match]	liverpool shirt	service	0.75
+[football match]	lineups	service	0.75
+[football match]	league final full match	service	0.75
+[football match]	goals	service	0.75
+[football match]	goal	service	0.75
+[football match]	finala	service	0.75
+[football match]	final highlights	service	0.75
+[football match]	cup final	service	0.75
+[football match]	teams	service	0.6
+[football match]	squad	service	0.6
+[football match]	shirt	service	0.6
+[football match]	result	service	0.6
+[football match]	players	service	0.6
+[football match]	final alineaciones	service	0.6
+[football match]	demi finale	service	0.6
+[football match]	alineaciones	service	0.6
+[football match]	winner	property	1.0
+[football match]	referee	property	0.75
+[football match]	2000	other	1.0
+[game]	imdb	website	1.0
+[game]	amazon	website	1.0
+[game]	youtube	website	0.75
+[game]	ebay	website	0.75
+[game]	reddit	website	0.6
+[game]	game online	website	0.6
+[game]	free online	website	0.6
+[game]	walmart	service	1.0
+[game]	video	service	1.0
+[game]	tutorial	service	1.0
+[game]	tricks	service	1.0
+[game]	tournament	service	1.0
+[game]	tips	service	1.0
+[game]	solver	service	1.0
+[game]	scenarios	service	1.0
+[game]	rules pdf	service	1.0
+[game]	review	service	1.0
+[game]	questions	service	1.0
+[game]	price guide	service	1.0
+[game]	pdf download	service	1.0
+[game]	miniatures	service	1.0
+[game]	meaning	service	1.0
+[game]	map	service	1.0
+[game]	images	service	1.0
+[game]	ideas	service	1.0
+[game]	game download	service	1.0
+[game]	full movie	service	1.0
+[game]	faq	service	1.0
+[game]	expansion	service	1.0
+[game]	examples	service	1.0
+[game]	directions	service	1.0
+[game]	character generator	service	1.0
+[game]	card list	service	1.0
+[game]	buy	service	1.0
+[game]	books	service	1.0
+[game]	adventures	service	1.0
+[game]	2 player	service	1.0
+[game]	list	service	1.0
+[game]	how to play	service	1.0
+[game]	tactics	service	0.75
+[game]	story	service	0.75
+[game]	store	service	0.75
+[game]	starter set	service	0.75
+[game]	score sheet	service	0.75
+[game]	quotes	service	0.75
+[game]	python	service	0.75
+[game]	printable	service	0.75
+[game]	price	service	0.75
+[game]	pieces	service	0.75
+[game]	pc game	service	0.75
+[game]	pc	service	0.75
+[game]	openings	service	0.75
+[game]	movie	service	0.75
+[game]	lyrics	service	0.75
+[game]	ios	service	0.75
+[game]	instructions	service	0.75
+[game]	history	service	0.75
+[game]	game rules	service	0.75
+[game]	free	service	0.75
+[game]	for sale	service	0.75
+[game]	for kids	service	0.75
+[game]	drinking game	service	0.75
+[game]	download	service	0.75
+[game]	commercial	service	0.75
+[game]	classes	service	0.75
+[game]	cheats	service	0.75
+[game]	2nd edition pdf	service	0.75
+[game]	trailer	service	0.6
+[game]	table	service	0.6
+[game]	rules	service	0.6
+[game]	races	service	0.6
+[game]	prices	service	0.6
+[game]	names	service	0.6
+[game]	mod	service	0.6
+[game]	meme	service	0.6
+[game]	java	service	0.6
+[game]	in english	service	0.6
+[game]	hands	service	0.6
+[game]	free download	service	0.6
+[game]	forum	service	0.6
+[game]	for ipad	service	0.6
+[game]	club	service	0.6
+[game]	card game rules	service	0.6
+[game]	card game online	service	0.6
+[game]	synonym	property	1.0
+[game]	dice	property	1.0
+[game]	board	property	1.0
+[game]	variations	property	0.75
+[game]	template	property	0.75
+[game]	origin	property	0.75
+[game]	game	property	0.75
+[game]	engine	property	0.75
+[game]	cards	property	0.75
+[game]	anime	property	0.75
+[game]	4th edition	property	0.75
+[game]	value	property	0.6
+[game]	theory	property	0.6
+[game]	points	property	0.6
+[game]	character creation	property	0.6
+[game]	cast	property	0.6
+[game]	2 players	property	0.6
+[game]	nz	other	1.0
+[game]	uk	other	0.75
+[game]	rpg pdf	other	0.6
+[hobby]	online	website	0.6
+[hobby]	videos	service	1.0
+[hobby]	tutorial	service	1.0
+[hobby]	techniques	service	1.0
+[hobby]	supplies	service	1.0
+[hobby]	software	service	1.0
+[hobby]	near me	service	1.0
+[hobby]	lessons	service	1.0
+[hobby]	ideas	service	1.0
+[hobby]	for beginners	service	1.0
+[hobby]	examples	service	1.0
+[hobby]	courses	service	1.0
+[hobby]	course	service	1.0
+[hobby]	tips	service	0.75
+[hobby]	songs	service	0.75
+[hobby]	quotes	service	0.75
+[hobby]	news	service	0.75
+[hobby]	movies	service	0.75
+[hobby]	meaning in hindi	service	0.75
+[hobby]	magazine	service	0.75
+[hobby]	kits	service	0.75
+[hobby]	jobs	service	0.75
+[hobby]	game	service	0.75
+[hobby]	essay	service	0.75
+[hobby]	classes	service	0.75
+[hobby]	basics	service	0.75
+[hobby]	shoes	service	0.6
+[hobby]	kit	service	0.6
+[hobby]	for sale	service	0.6
+[hobby]	for kids	service	0.6
+[hobby]	clothing	service	0.6
+[hobby]	app	service	0.6
+[hobby]	school	property	1.0
+[hobby]	book	property	1.0
+[hobby]	australia	property	1.0
+[hobby]	tools	property	0.75
+[hobby]	pronunciation	property	0.75
+[hobby]	definition	property	0.75
+[hobby]	video	property	0.6
+[hobby]	games	property	0.6
+[hobby]	books	property	0.6
+[hobby]	2017	other	0.75
+[hobby]	guide	other	0.6
+[hotel]	yelp	website	1.0
+[hotel]	wikipedia	website	1.0
+[hotel]	wiki	website	1.0
+[hotel]	tripadvisor	website	1.0
+[hotel]	facebook	website	1.0
+[hotel]	expedia	website	1.0
+[hotel]	booking.com	website	1.0
+[hotel]	website	website	0.6
+[hotel]	email	website	0.6
+[hotel]	blog	website	0.6
+[hotel]	weddings	service	1.0
+[hotel]	wedding cost	service	1.0
+[hotel]	wedding	service	1.0
+[hotel]	villas	service	1.0
+[hotel]	upcoming events	service	1.0
+[hotel]	tour	service	1.0
+[hotel]	to airport	service	1.0
+[hotel]	swimming pool	service	1.0
+[hotel]	spa deals	service	1.0
+[hotel]	spa day	service	1.0
+[hotel]	sold	service	1.0
+[hotel]	shows	service	1.0
+[hotel]	restaurants	service	1.0
+[hotel]	residences	service	1.0
+[hotel]	reservations	service	1.0
+[hotel]	rentals	service	1.0
+[hotel]	rent	service	1.0
+[hotel]	rates	service	1.0
+[hotel]	promo code	service	1.0
+[hotel]	pool party	service	1.0
+[hotel]	pictures	service	1.0
+[hotel]	photos	service	1.0
+[hotel]	packages	service	1.0
+[hotel]	offers	service	1.0
+[hotel]	menu	service	1.0
+[hotel]	jobs	service	1.0
+[hotel]	images	service	1.0
+[hotel]	history	service	1.0
+[hotel]	high tea	service	1.0
+[hotel]	gym	service	1.0
+[hotel]	gardens	service	1.0
+[hotel]	events	service	1.0
+[hotel]	dining	service	1.0
+[hotel]	deals	service	1.0
+[hotel]	concierge	service	1.0
+[hotel]	club	service	1.0
+[hotel]	cinema	service	1.0
+[hotel]	careers	service	1.0
+[hotel]	career	service	1.0
+[hotel]	buffet price	service	1.0
+[hotel]	buffet	service	1.0
+[hotel]	brunch	service	1.0
+[hotel]	breakfast	service	1.0
+[hotel]	bowling	service	1.0
+[hotel]	booking	service	1.0
+[hotel]	apartments	service	1.0
+[hotel]	weather	service	0.75
+[hotel]	tea	service	0.75
+[hotel]	rooms	service	0.75
+[hotel]	room rates	service	0.75
+[hotel]	rooftop bar	service	0.75
+[hotel]	reviews	service	0.75
+[hotel]	restaurant menu	service	0.75
+[hotel]	renovation	service	0.75
+[hotel]	prices	service	0.75
+[hotel]	pool hours	service	0.75
+[hotel]	pool	service	0.75
+[hotel]	map	service	0.75
+[hotel]	las vegas reviews	service	0.75
+[hotel]	group	service	0.75
+[hotel]	golf	service	0.75
+[hotel]	condos for sale	service	0.75
+[hotel]	club lounge	service	0.75
+[hotel]	club level	service	0.75
+[hotel]	cafe	service	0.75
+[hotel]	bingo	service	0.75
+[hotel]	bar	service	0.75
+[hotel]	all inclusive	service	0.75
+[hotel]	airport shuttle	service	0.75
+[hotel]	airport	service	0.75
+[hotel]	shuttle	service	0.6
+[hotel]	rooftop	service	0.6
+[hotel]	restaurant	service	0.6
+[hotel]	resort fee	service	0.6
+[hotel]	luau	service	0.6
+[hotel]	in las vegas	service	0.6
+[hotel]	groupon	service	0.6
+[hotel]	for sale	service	0.6
+[hotel]	executive lounge	service	0.6
+[hotel]	downtown	service	0.6
+[hotel]	construction	service	0.6
+[hotel]	condos	service	0.6
+[hotel]	christmas	service	0.6
+[hotel]	bed bugs	service	0.6
+[hotel]	afternoon tea	service	0.6
+[hotel]	toronto	property	1.0
+[hotel]	telephone number	property	1.0
+[hotel]	sydney	property	1.0
+[hotel]	singapore	property	1.0
+[hotel]	san francisco	property	1.0
+[hotel]	price	property	1.0
+[hotel]	postcode	property	1.0
+[hotel]	phone number	property	1.0
+[hotel]	paris	property	1.0
+[hotel]	owner	property	1.0
+[hotel]	opening	property	1.0
+[hotel]	number	property	1.0
+[hotel]	new york	property	1.0
+[hotel]	madrid	property	1.0
+[hotel]	location	property	1.0
+[hotel]	hong kong	property	1.0
+[hotel]	general manager	property	1.0
+[hotel]	contact number	property	1.0
+[hotel]	contact	property	1.0
+[hotel]	closing	property	1.0
+[hotel]	closed	property	1.0
+[hotel]	chicago	property	1.0
+[hotel]	chennai	property	1.0
+[hotel]	casino	property	1.0
+[hotel]	canada	property	1.0
+[hotel]	california	property	1.0
+[hotel]	bangkok	property	1.0
+[hotel]	ballroom	property	1.0
+[hotel]	amsterdam	property	1.0
+[hotel]	address	property	1.0
+[hotel]	vegas	property	0.75
+[hotel]	seattle	property	0.75
+[hotel]	russia	property	0.75
+[hotel]	resort	property	0.75
+[hotel]	parking	property	0.75
+[hotel]	montreal	property	0.75
+[hotel]	malta	property	0.75
+[hotel]	los angeles	property	0.75
+[hotel]	dublin	property	0.75
+[hotel]	check out time	property	0.75
+[hotel]	atlanta	property	0.75
+[hotel]	vancouver	property	0.6
+[hotel]	spa	property	0.6
+[hotel]	prague	property	0.6
+[hotel]	portland	property	0.6
+[hotel]	ny	property	0.6
+[hotel]	new york city	property	0.6
+[hotel]	las vegas	property	0.6
+[hotel]	istanbul	property	0.6
+[hotel]	dubai	property	0.6
+[hotel]	dress code	property	0.6
+[hotel]	delhi	property	0.6
+[hotel]	dc	property	0.6
+[hotel]	check in time	property	0.6
+[hotel]	blackpool	property	0.6
+[hotel]	beach	property	0.6
+[hotel]	barcelona	property	0.6
+[hotel]	atlantic city	property	0.6
+[hotel]	nyc	other	1.0
+[hotel]	movie	other	0.75
+[hotel]	4*	other	0.75
+[hotel]	mumbai	other	0.6
+[hotel]	movies	other	0.6
+[hotel]	london	other	0.6
+[hotel]	haunted	other	0.6
+[hotel]	5*	other	0.6
+[house]	wiki	website	1.0
+[house]	twitter	website	1.0
+[house]	tripadvisor	website	1.0
+[house]	facebook	website	1.0
+[house]	weddings	service	1.0
+[house]	wedding cost	service	1.0
+[house]	visit	service	1.0
+[house]	tours	service	1.0
+[house]	tour	service	1.0
+[house]	spa	service	1.0
+[house]	shop	service	1.0
+[house]	reviews	service	1.0
+[house]	resort	service	1.0
+[house]	rentals	service	1.0
+[house]	pool	service	1.0
+[house]	plans	service	1.0
+[house]	plan	service	1.0
+[house]	pictures	service	1.0
+[house]	photos	service	1.0
+[house]	parking	service	1.0
+[house]	menu	service	1.0
+[house]	lodge	service	1.0
+[house]	jobs	service	1.0
+[house]	inn	service	1.0
+[house]	images	service	1.0
+[house]	gift shop	service	1.0
+[house]	garden party	service	1.0
+[house]	for sale	service	1.0
+[house]	for rent	service	1.0
+[house]	floor plan	service	1.0
+[house]	events	service	1.0
+[house]	directions	service	1.0
+[house]	care home	service	1.0
+[house]	car park	service	1.0
+[house]	architecture	service	1.0
+[house]	wedding	service	0.75
+[house]	spa day	service	0.75
+[house]	proms	service	0.75
+[house]	open day	service	0.75
+[house]	of pizza	service	0.75
+[house]	nursing home	service	0.75
+[house]	meaning	service	0.75
+[house]	map	service	0.75
+[house]	hotels	service	0.75
+[house]	history	service	0.75
+[house]	hire	service	0.75
+[house]	gym	service	0.75
+[house]	gardens	service	0.75
+[house]	events 2017	service	0.75
+[house]	derbyshire	service	0.75
+[house]	belfast	service	0.75
+[house]	beach	service	0.75
+[house]	analysis	service	0.75
+[house]	accommodation	service	0.75
+[house]	weather	service	0.6
+[house]	village	service	0.6
+[house]	vets	service	0.6
+[house]	trust	service	0.6
+[house]	term dates	service	0.6
+[house]	sold	service	0.6
+[house]	restoration	service	0.6
+[house]	price	service	0.6
+[house]	maze	service	0.6
+[house]	library	service	0.6
+[house]	groupon	service	0.6
+[house]	garden centre	service	0.6
+[house]	fishing	service	0.6
+[house]	facts	service	0.6
+[house]	cottages	service	0.6
+[house]	concerts	service	0.6
+[house]	classic car show	service	0.6
+[house]	cinema	service	0.6
+[house]	bed and breakfast	service	0.6
+[house]	auction	service	0.6
+[house]	and gardens	service	0.6
+[house]	afternoon tea	service	0.6
+[house]	park	property	1.0
+[house]	manor	property	1.0
+[house]	interior	property	1.0
+[house]	garden	property	1.0
+[house]	dogs	property	1.0
+[house]	cost	property	1.0
+[house]	address	property	1.0
+[house]	value	property	0.75
+[house]	owner	property	0.75
+[house]	opening times	property	0.75
+[house]	nursery	property	0.75
+[house]	mansion	property	0.75
+[house]	location	property	0.75
+[house]	farm	property	0.75
+[house]	chapel	property	0.75
+[house]	capital	property	0.75
+[house]	walk	property	0.6
+[house]	tea rooms	property	0.6
+[house]	tea room	property	0.6
+[house]	rooms	property	0.6
+[house]	pub	property	0.6
+[house]	postcode	property	0.6
+[house]	opening hours	property	0.6
+[house]	museum	property	0.6
+[house]	inside	property	0.6
+[house]	house	property	0.6
+[house]	hours	property	0.6
+[house]	golf club	property	0.6
+[house]	festival	property	0.6
+[house]	church	property	0.6
+[house]	cafe	property	0.6
+[house]	bath	property	0.6
+[house]	barn	property	0.6
+[house]	apartments	property	0.6
+[house]	york	other	1.0
+[house]	today	other	1.0
+[house]	scotland	other	1.0
+[house]	pride and prejudice	other	1.0
+[house]	ohio	other	1.0
+[house]	nyc	other	1.0
+[house]	new york	other	1.0
+[house]	movie	other	1.0
+[house]	manchester	other	1.0
+[house]	frank lloyd wright	other	1.0
+[house]	cc	other	1.0
+[house]	car show	other	1.0
+[house]	10k	other	1.0
+[house]	yorkshire	other	0.75
+[house]	wedding photos	other	0.75
+[house]	wedding photography	other	0.75
+[house]	uk	other	0.75
+[house]	triathlon	other	0.75
+[house]	nt	other	0.75
+[house]	norfolk	other	0.75
+[house]	london	other	0.75
+[house]	ghosts	other	0.75
+[house]	england	other	0.75
+[house]	surgery	other	0.6
+[house]	shakespeare	other	0.6
+[house]	road	other	0.6
+[house]	primary	other	0.6
+[house]	opera	other	0.6
+[house]	newcastle	other	0.6
+[house]	movies	other	0.6
+[house]	leeds	other	0.6
+[house]	haunted	other	0.6
+[house]	cricket club	other	0.6
+[house]	birmingham	other	0.6
+[house]	2017	other	0.6
+[human language]	youtube	website	1.0
+[human language]	wikipedia	website	1.0
+[human language]	wiki	website	1.0
+[human language]	video	service	1.0
+[human language]	tutorial	service	1.0
+[human language]	translator	service	1.0
+[human language]	translation to english	service	1.0
+[human language]	translation in hindi	service	1.0
+[human language]	translation english	service	1.0
+[human language]	translation	service	1.0
+[human language]	to english translation	service	1.0
+[human language]	spoken	service	1.0
+[human language]	speaking	service	1.0
+[human language]	songs	service	1.0
+[human language]	software	service	1.0
+[human language]	poetry	service	1.0
+[human language]	phonology	service	1.0
+[human language]	music	service	1.0
+[human language]	lessons	service	1.0
+[human language]	jokes	service	1.0
+[human language]	jobs	service	1.0
+[human language]	interpreter	service	1.0
+[human language]	facts	service	1.0
+[human language]	download	service	1.0
+[human language]	courses	service	1.0
+[human language]	course	service	1.0
+[human language]	coins	service	1.0
+[human language]	classes near me	service	1.0
+[human language]	books	service	1.0
+[human language]	academy	service	1.0
+[human language]	vocabulary	service	0.75
+[human language]	tree	service	0.75
+[human language]	spelling	service	0.75
+[human language]	shepherd	service	0.75
+[human language]	script	service	0.75
+[human language]	restaurant	service	0.75
+[human language]	resources	service	0.75
+[human language]	origin	service	0.75
+[human language]	news	service	0.75
+[human language]	meaning	service	0.75
+[human language]	map	service	0.75
+[human language]	list	service	0.75
+[human language]	learning	service	0.75
+[human language]	keyboard	service	0.75
+[human language]	hello in	service	0.75
+[human language]	group	service	0.75
+[human language]	crossword clue	service	0.75
+[human language]	code	service	0.75
+[human language]	book	service	0.75
+[human language]	app	service	0.75
+[human language]	week	service	0.6
+[human language]	text	service	0.6
+[human language]	test	service	0.6
+[human language]	swear words	service	0.6
+[human language]	song	service	0.6
+[human language]	revival	service	0.6
+[human language]	quotes	service	0.6
+[human language]	phrases	service	0.6
+[human language]	names	service	0.6
+[human language]	name	service	0.6
+[human language]	movies	service	0.6
+[human language]	letters	service	0.6
+[human language]	last names	service	0.6
+[human language]	in india	service	0.6
+[human language]	history	service	0.6
+[human language]	example	service	0.6
+[human language]	different languages	service	0.6
+[human language]	crossword	service	0.6
+[human language]	classes	service	0.6
+[human language]	border	service	0.6
+[human language]	audio	service	0.6
+[human language]	art	service	0.6
+[human language]	apps	service	0.6
+[human language]	literature	property	1.0
+[human language]	dialect	property	1.0
+[human language]	alphabet	property	1.0
+[human language]	words	property	0.75
+[human language]	textbook	property	0.75
+[human language]	slang	property	0.75
+[human language]	school	property	0.75
+[human language]	institute	property	0.75
+[human language]	grammar	property	0.75
+[human language]	flag	property	0.75
+[human language]	family	property	0.75
+[human language]	dictionary	property	0.75
+[human language]	definition	property	0.75
+[human language]	country	property	0.75
+[human language]	basics	property	0.75
+[human language]	accent	property	0.75
+[human language]	status	property	0.6
+[human language]	sentences	property	0.6
+[human language]	program	property	0.6
+[human language]	language	property	0.6
+[human language]	character	property	0.6
+[human language]	pdf	other	1.0
+[human language]	i love you	other	1.0
+[human language]	old	other	0.75
+[human language]	war	other	0.6
+[human language]	hello	other	0.6
+[kingdom]	wikipedia	website	1.0
+[kingdom]	news	service	1.0
+[kingdom]	kings	service	1.0
+[kingdom]	coins	service	1.0
+[kingdom]	visa	service	0.75
+[kingdom]	tourism	service	0.75
+[kingdom]	map	service	0.75
+[kingdom]	hotels	service	0.75
+[kingdom]	history	service	0.75
+[kingdom]	currency	service	0.75
+[kingdom]	pdf	service	0.6
+[kingdom]	economy	service	0.6
+[kingdom]	airport	service	0.6
+[kingdom]	king	property	1.0
+[kingdom]	capital	property	1.0
+[kingdom]	anthem	property	1.0
+[kingdom]	population	property	0.75
+[kingdom]	language	property	0.75
+[kingdom]	city	property	0.75
+[kingdom]	army	property	0.75
+[kingdom]	timeline	property	0.6
+[kingdom]	flag	property	0.6
+[kingdom]	ww1	other	1.0
+[kingdom]	hoi4	other	1.0
+[kingdom]	eu4	other	1.0
+[kingdom]	in hindi	other	0.75
+[kingdom]	ww2	other	0.6
+[kingdom]	definition	other	0.6
+[medical specialty]	report	service	1.0
+[medical specialty]	procedures	service	1.0
+[medical specialty]	jobs	service	1.0
+[medical specialty]	courses	service	1.0
+[medical specialty]	clinic	service	1.0
+[medical specialty]	book	service	1.0
+[medical specialty]	training	service	0.75
+[medical specialty]	consultants	service	0.75
+[medical specialty]	conferences 2017	service	0.6
+[medical specialty]	conference	service	0.6
+[medical specialty]	books	service	0.6
+[medical specialty]	nurse	property	1.0
+[medical specialty]	impact factor	property	1.0
+[medical specialty]	fellowship	property	1.0
+[medical specialty]	degree	property	1.0
+[medical specialty]	schools	property	0.75
+[medical specialty]	salary	property	0.75
+[medical specialty]	physician	property	0.75
+[medical specialty]	center	property	0.75
+[medical specialty]	doctor	property	0.6
+[medical specialty]	cost	property	0.6
+[medical specialty]	assistant	property	0.6
+[medical specialty]	uk	other	1.0
+[medical specialty]	pdf	other	1.0
+[muscle]	workout	service	1.0
+[muscle]	test	service	1.0
+[muscle]	pain treatment	service	1.0
+[muscle]	massage	service	1.0
+[muscle]	horse	service	1.0
+[muscle]	exercises	service	1.0
+[muscle]	exercise	service	1.0
+[muscle]	belly	service	1.0
+[muscle]	atrophy	service	1.0
+[muscle]	origin insertion and action	service	0.75
+[muscle]	innervation	service	0.75
+[muscle]	cramp	service	0.75
+[muscle]	action	service	0.75
+[muscle]	tear	service	0.6
+[muscle]	swelling	service	0.6
+[muscle]	palsy	service	0.6
+[muscle]	origin and insertion	service	0.6
+[muscle]	mri	service	0.6
+[muscle]	knot	service	0.6
+[muscle]	blood supply	service	0.6
+[muscle]	syndrome	property	1.0
+[muscle]	origin	property	1.0
+[muscle]	location	property	1.0
+[muscle]	flap	property	1.0
+[muscle]	definition	property	1.0
+[muscle]	cadaver	property	1.0
+[muscle]	trigger point	property	0.75
+[muscle]	strain	property	0.75
+[muscle]	pronunciation	property	0.75
+[muscle]	pain	property	0.75
+[muscle]	tendon	property	0.6
+[muscle]	spasm	property	0.6
+[muscle]	muscle	property	0.6
+[muscle]	function	property	0.6
+[muscle]	botox	property	0.6
+[muscle]	中文	other	1.0
+[muscle]	ct	other	0.75
+[netflix genre]	youtube	website	1.0
+[netflix genre]	videos	service	1.0
+[netflix genre]	translator	service	1.0
+[netflix genre]	translation	service	1.0
+[netflix genre]	tips	service	1.0
+[netflix genre]	school	service	1.0
+[netflix genre]	news	service	1.0
+[netflix genre]	history	service	1.0
+[netflix genre]	genre	service	1.0
+[netflix genre]	flag	service	1.0
+[netflix genre]	course	service	1.0
+[netflix genre]	app	service	1.0
+[netflix genre]	live	service	1.0
+[netflix genre]	words	service	0.75
+[netflix genre]	weather	service	0.75
+[netflix genre]	video	service	0.75
+[netflix genre]	to english	service	0.75
+[netflix genre]	time	service	0.75
+[netflix genre]	songs	service	0.75
+[netflix genre]	shows	service	0.75
+[netflix genre]	quotes	service	0.75
+[netflix genre]	population	service	0.75
+[netflix genre]	origin	service	0.75
+[netflix genre]	movies 2017	service	0.75
+[netflix genre]	movies 2016	service	0.75
+[netflix genre]	movies	service	0.75
+[netflix genre]	movie	service	0.75
+[netflix genre]	learning	service	0.75
+[netflix genre]	ideas	service	0.75
+[netflix genre]	games	service	0.75
+[netflix genre]	festival	service	0.75
+[netflix genre]	download	service	0.75
+[netflix genre]	classes	service	0.75
+[netflix genre]	alphabet	service	0.75
+[netflix genre]	airlines	service	0.75
+[netflix genre]	test	service	0.6
+[netflix genre]	schedule	service	0.6
+[netflix genre]	online	service	0.6
+[netflix genre]	near me	service	0.6
+[netflix genre]	music	service	0.6
+[netflix genre]	map	service	0.6
+[netflix genre]	lessons	service	0.6
+[netflix genre]	jobs	service	0.6
+[netflix genre]	definition	service	0.6
+[netflix genre]	currency	service	0.6
+[netflix genre]	basics	service	0.6
+[netflix genre]	uk	other	1.0
+[netflix genre]	2017	other	0.75
+[netflix genre]	shoes	other	0.6
+[netflix genre]	day	other	0.6
+[newspaper]	wikipedia	website	1.0
+[newspaper]	wiki	website	1.0
+[newspaper]	twitter	website	1.0
+[newspaper]	facebook	website	1.0
+[newspaper]	yard sales	service	1.0
+[newspaper]	wetter	service	1.0
+[newspaper]	vacancies	service	1.0
+[newspaper]	translation	service	1.0
+[newspaper]	subscription	service	1.0
+[newspaper]	sport	service	1.0
+[newspaper]	quiz	service	1.0
+[newspaper]	podcast	service	1.0
+[newspaper]	photos	service	1.0
+[newspaper]	opinion	service	1.0
+[newspaper]	obituaries today	service	1.0
+[newspaper]	obituaries	service	1.0
+[newspaper]	newspaper archives	service	1.0
+[newspaper]	news today	service	1.0
+[newspaper]	news	service	1.0
+[newspaper]	music	service	1.0
+[newspaper]	media kit	service	1.0
+[newspaper]	media group	service	1.0
+[newspaper]	letters to the editor	service	1.0
+[newspaper]	latest news	service	1.0
+[newspaper]	jobs	service	1.0
+[newspaper]	job	service	1.0
+[newspaper]	internship	service	1.0
+[newspaper]	horoscopes	service	1.0
+[newspaper]	headlines	service	1.0
+[newspaper]	garage sales	service	1.0
+[newspaper]	funeral notices	service	1.0
+[newspaper]	events	service	1.0
+[newspaper]	delivery	service	1.0
+[newspaper]	deaths	service	1.0
+[newspaper]	death notices	service	1.0
+[newspaper]	customer service	service	1.0
+[newspaper]	crime	service	1.0
+[newspaper]	contests	service	1.0
+[newspaper]	classifieds	service	1.0
+[newspaper]	classified ads	service	1.0
+[newspaper]	classified	service	1.0
+[newspaper]	calendar	service	1.0
+[newspaper]	breaking news	service	1.0
+[newspaper]	back issues	service	1.0
+[newspaper]	arrests	service	1.0
+[newspaper]	archives	service	1.0
+[newspaper]	archive	service	1.0
+[newspaper]	app	service	1.0
+[newspaper]	weather	service	0.75
+[newspaper]	vacation stop	service	0.75
+[newspaper]	sports	service	0.75
+[newspaper]	reviews	service	0.75
+[newspaper]	obituary	service	0.75
+[newspaper]	obits	service	0.75
+[newspaper]	obit	service	0.75
+[newspaper]	newspaper	service	0.75
+[newspaper]	mugshots	service	0.75
+[newspaper]	meaning	service	0.75
+[newspaper]	journal	service	0.75
+[newspaper]	horoscope	service	0.75
+[newspaper]	high school sports	service	0.75
+[newspaper]	foundation	service	0.75
+[newspaper]	for sale	service	0.75
+[newspaper]	football	service	0.75
+[newspaper]	deportes	service	0.75
+[newspaper]	crossword	service	0.75
+[newspaper]	business	service	0.75
+[newspaper]	arena	service	0.75
+[newspaper]	abonnement	service	0.75
+[newspaper]	trump	service	0.6
+[newspaper]	traffic	service	0.6
+[newspaper]	song	service	0.6
+[newspaper]	plus	service	0.6
+[newspaper]	movie	service	0.6
+[newspaper]	lyrics	service	0.6
+[newspaper]	english	service	0.6
+[newspaper]	digital	service	0.6
+[newspaper]	concerts	service	0.6
+[newspaper]	closing	service	0.6
+[newspaper]	careers	service	0.6
+[newspaper]	career	service	0.6
+[newspaper]	property	property	1.0
+[newspaper]	phone number	property	1.0
+[newspaper]	paper	property	1.0
+[newspaper]	front page	property	1.0
+[newspaper]	editorial	property	1.0
+[newspaper]	editor	property	1.0
+[newspaper]	cover	property	1.0
+[newspaper]	contact number	property	1.0
+[newspaper]	address	property	1.0
+[newspaper]	who owns	property	0.75
+[newspaper]	price	property	0.75
+[newspaper]	logo	property	0.75
+[newspaper]	live	property	0.75
+[newspaper]	kontakt	property	0.75
+[newspaper]	contact details	property	0.75
+[newspaper]	staff	property	0.6
+[newspaper]	in english	property	0.6
+[newspaper]	group	property	0.6
+[newspaper]	font	property	0.6
+[newspaper]	contact	property	0.6
+[newspaper]	circulation	property	0.6
+[newspaper]	uk	other	1.0
+[newspaper]	the	other	1.0
+[newspaper]	shop	other	1.0
+[newspaper]	radio	other	1.0
+[newspaper]	police blotter	other	1.0
+[newspaper]	nyc	other	1.0
+[newspaper]	nj	other	1.0
+[newspaper]	india	other	1.0
+[newspaper]	hong kong	other	1.0
+[newspaper]	best of	other	1.0
+[newspaper]	tv	other	0.75
+[newspaper]	toronto	other	0.75
+[newspaper]	sydney	other	0.75
+[newspaper]	scotland	other	0.75
+[newspaper]	qatar	other	0.75
+[newspaper]	pets	other	0.75
+[newspaper]	paris	other	0.75
+[newspaper]	of india	other	0.75
+[newspaper]	new york	other	0.75
+[newspaper]	ireland	other	0.75
+[newspaper]	club	other	0.75
+[newspaper]	canada	other	0.75
+[newspaper]	australia	other	0.75
+[newspaper]	abo	other	0.75
+[newspaper]	vancouver	other	0.6
+[newspaper]	today	other	0.6
+[newspaper]	patna	other	0.6
+[newspaper]	london	other	0.6
+[newspaper]	hotel	other	0.6
+[newspaper]	food	other	0.6
+[newspaper]	company	other	0.6
+[oil field]	services	service	1.0
+[oil field]	oil field	service	1.0
+[oil field]	map	service	1.0
+[oil field]	jobs	service	1.0
+[oil field]	field map	service	1.0
+[oil field]	reserves	service	0.75
+[oil field]	production	service	0.6
+[oil field]	operator	property	1.0
+[oil field]	location	property	1.0
+[oil field]	geology	property	1.0
+[oil field]	field	property	1.0
+[oil field]	water depth	property	0.75
+[oil field]	oil	property	0.6
+[oil field]	history	property	0.6
+[oil field]	north sea	other	1.0
+[oil field]	weather	other	0.75
+[oil field]	norway	other	0.75
+[olympic sport]	youtube	website	1.0
+[olympic sport]	training	service	1.0
+[olympic sport]	rules	service	1.0
+[olympic sport]	news	service	1.0
+[olympic sport]	near me	service	1.0
+[olympic sport]	movies	service	1.0
+[olympic sport]	games	service	1.0
+[olympic sport]	equipment	service	1.0
+[olympic sport]	boots	service	1.0
+[olympic sport]	video	service	0.75
+[olympic sport]	technique	service	0.75
+[olympic sport]	results	service	0.75
+[olympic sport]	quotes	service	0.75
+[olympic sport]	positions	service	0.75
+[olympic sport]	meaning	service	0.75
+[olympic sport]	history	service	0.75
+[olympic sport]	gloves	service	0.75
+[olympic sport]	drills	service	0.75
+[olympic sport]	ball	service	0.75
+[olympic sport]	tips	service	0.6
+[olympic sport]	shoes	service	0.6
+[olympic sport]	moves	service	0.6
+[olympic sport]	gear	service	0.6
+[olympic sport]	game	service	0.6
+[olympic sport]	suit	property	1.0
+[olympic sport]	london	property	1.0
+[olympic sport]	uk	property	0.75
+[olympic sport]	canada	property	0.75
+[olympic sport]	world record	property	0.6
+[olympic sport]	world cup	property	0.6
+[olympic sport]	spikes	property	0.6
+[olympic sport]	olympics	property	0.6
+[olympic sport]	ireland	property	0.6
+[olympic sport]	court	property	0.6
+[organization]	wikipedia	website	1.0
+[organization]	wiki	website	1.0
+[organization]	website	website	1.0
+[organization]	twitter	website	1.0
+[organization]	online check in	website	1.0
+[organization]	official website	website	1.0
+[organization]	linkedin	website	1.0
+[organization]	glassdoor	website	1.0
+[organization]	facebook	website	1.0
+[organization]	clg wiki	website	1.0
+[organization]	youtube	website	0.75
+[organization]	sign in	website	0.6
+[organization]	weather	service	1.0
+[organization]	video	service	1.0
+[organization]	transfers	service	1.0
+[organization]	training	service	1.0
+[organization]	tracking	service	1.0
+[organization]	tattoo	service	1.0
+[organization]	support	service	1.0
+[organization]	store	service	1.0
+[organization]	standings	service	1.0
+[organization]	shows	service	1.0
+[organization]	scores	service	1.0
+[organization]	schedule 2017	service	1.0
+[organization]	schedule	service	1.0
+[organization]	salary	service	1.0
+[organization]	requirements	service	1.0
+[organization]	quizlet	service	1.0
+[organization]	prices	service	1.0
+[organization]	predictions	service	1.0
+[organization]	photos	service	1.0
+[organization]	news	service	1.0
+[organization]	movies	service	1.0
+[organization]	menu	service	1.0
+[organization]	members	service	1.0
+[organization]	map	service	1.0
+[organization]	list	service	1.0
+[organization]	latest news	service	1.0
+[organization]	jobs	service	1.0
+[organization]	investor relations	service	1.0
+[organization]	internships	service	1.0
+[organization]	holidays	service	1.0
+[organization]	games	service	1.0
+[organization]	game	service	1.0
+[organization]	flights	service	1.0
+[organization]	flight status	service	1.0
+[organization]	films	service	1.0
+[organization]	depth chart	service	1.0
+[organization]	customer service	service	1.0
+[organization]	credit card	service	1.0
+[organization]	courses	service	1.0
+[organization]	coupons	service	1.0
+[organization]	check in	service	1.0
+[organization]	certification	service	1.0
+[organization]	careers	service	1.0
+[organization]	business class	service	1.0
+[organization]	artists	service	1.0
+[organization]	membership	service	1.0
+[organization]	uniform	service	0.75
+[organization]	transfermarkt	service	0.75
+[organization]	tour	service	0.75
+[organization]	tickets	service	0.75
+[organization]	teams	service	0.75
+[organization]	table 2017	service	0.75
+[organization]	stock price	service	0.75
+[organization]	stock	service	0.75
+[organization]	songs	service	0.75
+[organization]	shop	service	0.75
+[organization]	share price	service	0.75
+[organization]	rumors	service	0.75
+[organization]	reviews	service	0.75
+[organization]	results	service	0.75
+[organization]	reserve	service	0.75
+[organization]	recruitment 2017	service	0.75
+[organization]	record	service	0.75
+[organization]	promo code	service	0.75
+[organization]	policies	service	0.75
+[organization]	playoffs	service	0.75
+[organization]	phones	service	0.75
+[organization]	nutrition	service	0.75
+[organization]	music	service	0.75
+[organization]	movie	service	0.75
+[organization]	majors	service	0.75
+[organization]	laptops	service	0.75
+[organization]	internship	service	0.75
+[organization]	ideology	service	0.75
+[organization]	history	service	0.75
+[organization]	hat	service	0.75
+[organization]	for sale	service	0.75
+[organization]	flight	service	0.75
+[organization]	fleet	service	0.75
+[organization]	delivery	service	0.75
+[organization]	customer care	service	0.75
+[organization]	cars	service	0.75
+[organization]	career	service	0.75
+[organization]	car	service	0.75
+[organization]	books	service	0.75
+[organization]	book	service	0.75
+[organization]	attacks	service	0.75
+[organization]	app	service	0.75
+[organization]	admissions	service	0.75
+[organization]	account	service	0.75
+[organization]	watch	service	0.6
+[organization]	videos	service	0.6
+[organization]	uniforms	service	0.6
+[organization]	tv	service	0.6
+[organization]	tuition	service	0.6
+[organization]	training camp	service	0.6
+[organization]	television	service	0.6
+[organization]	table	service	0.6
+[organization]	search	service	0.6
+[organization]	score	service	0.6
+[organization]	sale	service	0.6
+[organization]	roster	service	0.6
+[organization]	review	service	0.6
+[organization]	revenue	service	0.6
+[organization]	ranking	service	0.6
+[organization]	outlet	service	0.6
+[organization]	online	service	0.6
+[organization]	mobile	service	0.6
+[organization]	locations	service	0.6
+[organization]	live	service	0.6
+[organization]	internet	service	0.6
+[organization]	in hindi	service	0.6
+[organization]	images	service	0.6
+[organization]	forum	service	0.6
+[organization]	facts	service	0.6
+[organization]	equipment	service	0.6
+[organization]	documentary	service	0.6
+[organization]	company	service	0.6
+[organization]	colors	service	0.6
+[organization]	characters	service	0.6
+[organization]	carry on	service	0.6
+[organization]	brexit	service	0.6
+[organization]	bookstore	service	0.6
+[organization]	baseball	service	0.6
+[organization]	apush	service	0.6
+[organization]	annual report	service	0.6
+[organization]	acceptance rate	service	0.6
+[organization]	trump	property	1.0
+[organization]	symbol	property	1.0
+[organization]	squad	property	1.0
+[organization]	president	property	1.0
+[organization]	phone number	property	1.0
+[organization]	owner	property	1.0
+[organization]	manager	property	1.0
+[organization]	jersey	property	1.0
+[organization]	in india	property	1.0
+[organization]	headquarters	property	1.0
+[organization]	founder	property	1.0
+[organization]	flag	property	1.0
+[organization]	ceo	property	1.0
+[organization]	canada	property	1.0
+[organization]	band	property	1.0
+[organization]	address	property	1.0
+[organization]	act	property	1.0
+[organization]	usa	property	0.75
+[organization]	university	property	0.75
+[organization]	uae	property	0.75
+[organization]	toronto	property	0.75
+[organization]	stadium	property	0.75
+[organization]	singapore	property	0.75
+[organization]	ships	property	0.75
+[organization]	quotes	property	0.75
+[organization]	purpose	property	0.75
+[organization]	products	property	0.75
+[organization]	price	property	0.75
+[organization]	parts	property	0.75
+[organization]	notable alumni	property	0.75
+[organization]	net worth	property	0.75
+[organization]	mail	property	0.75
+[organization]	logo	property	0.75
+[organization]	location	property	0.75
+[organization]	leader	property	0.75
+[organization]	ireland	property	0.75
+[organization]	indonesia	property	0.75
+[organization]	hours	property	0.75
+[organization]	group	property	0.75
+[organization]	football	property	0.75
+[organization]	fees	property	0.75
+[organization]	definition	property	0.75
+[organization]	center	property	0.75
+[organization]	building	property	0.75
+[organization]	weapons	property	0.6
+[organization]	team	property	0.6
+[organization]	table 2016/17	property	0.6
+[organization]	shirt	property	0.6
+[organization]	school of medicine	property	0.6
+[organization]	ranks	property	0.6
+[organization]	press	property	0.6
+[organization]	philippines	property	0.6
+[organization]	pakistan	property	0.6
+[organization]	nz	property	0.6
+[organization]	nyc	property	0.6
+[organization]	number	property	0.6
+[organization]	medical school	property	0.6
+[organization]	medical center	property	0.6
+[organization]	malaysia	property	0.6
+[organization]	london	property	0.6
+[organization]	library	property	0.6
+[organization]	law school	property	0.6
+[organization]	india	property	0.6
+[organization]	hospital	property	0.6
+[organization]	gpa	property	0.6
+[organization]	fixtures	property	0.6
+[organization]	fifa 17	property	0.6
+[organization]	fc	property	0.6
+[organization]	drivers	property	0.6
+[organization]	countries	property	0.6
+[organization]	contact	property	0.6
+[organization]	companies	property	0.6
+[organization]	chicago	property	0.6
+[organization]	campus	property	0.6
+[organization]	brands	property	0.6
+[organization]	bank	property	0.6
+[organization]	australia	property	0.6
+[organization]	uk	other	1.0
+[organization]	today	other	1.0
+[organization]	2018	other	1.0
+[organization]	2014	other	1.0
+[organization]	pdf	other	0.75
+[organization]	final	other	0.75
+[organization]	beliefs	other	0.75
+[organization]	baggage	other	0.75
+[organization]	2016	other	0.75
+[organization]	2015	other	0.75
+[organization]	2	other	0.75
+[organization]	song	other	0.6
+[organization]	near me	other	0.6
+[organization]	manifesto	other	0.6
+[organization]	llc	other	0.6
+[organization]	bbc	other	0.6
+[person]	youtube	website	1.0
+[person]	netflix	website	1.0
+[person]	instagram	website	1.0
+[person]	snapchat	website	0.75
+[person]	workout	service	1.0
+[person]	tour	service	1.0
+[person]	timeline	service	1.0
+[person]	tickets	service	1.0
+[person]	stand up	service	1.0
+[person]	songs	service	1.0
+[person]	song	service	1.0
+[person]	singing	service	1.0
+[person]	short stories	service	1.0
+[person]	record	service	1.0
+[person]	quotes	service	1.0
+[person]	podcast	service	1.0
+[person]	photos	service	1.0
+[person]	new show	service	1.0
+[person]	new album	service	1.0
+[person]	music	service	1.0
+[person]	movies list	service	1.0
+[person]	movies	service	1.0
+[person]	movie	service	1.0
+[person]	meme	service	1.0
+[person]	lyrics	service	1.0
+[person]	library	service	1.0
+[person]	jobs	service	1.0
+[person]	images	service	1.0
+[person]	haircut	service	1.0
+[person]	facts	service	1.0
+[person]	dress	service	1.0
+[person]	diet	service	1.0
+[person]	concert	service	1.0
+[person]	books	service	1.0
+[person]	best movies	service	1.0
+[person]	art	service	1.0
+[person]	accomplishments	service	1.0
+[person]	show	service	1.0
+[person]	wimbledon 2017	service	0.75
+[person]	university	service	0.75
+[person]	transfer	service	0.75
+[person]	theme song	service	0.75
+[person]	tattoos	service	0.75
+[person]	story	service	0.75
+[person]	snl	service	0.75
+[person]	shoes	service	0.75
+[person]	poems	service	0.75
+[person]	in hindi	service	0.75
+[person]	gif	service	0.75
+[person]	films	service	0.75
+[person]	fashion	service	0.75
+[person]	family tree	service	0.75
+[person]	essay	service	0.75
+[person]	dating	service	0.75
+[person]	cars	service	0.75
+[person]	biography	service	0.75
+[person]	band	service	0.75
+[person]	meaning	service	0.6
+[person]	documentary	service	0.6
+[person]	costume	service	0.6
+[person]	college	service	0.6
+[person]	book	service	0.6
+[person]	twins	property	1.0
+[person]	twin	property	1.0
+[person]	sons	property	1.0
+[person]	son	property	1.0
+[person]	sister	property	1.0
+[person]	siblings	property	1.0
+[person]	short hair	property	1.0
+[person]	salary	property	1.0
+[person]	real name	property	1.0
+[person]	partner	property	1.0
+[person]	parents	property	1.0
+[person]	mother	property	1.0
+[person]	mom	property	1.0
+[person]	iq	property	1.0
+[person]	husband	property	1.0
+[person]	house	property	1.0
+[person]	high school	property	1.0
+[person]	height	property	1.0
+[person]	grave	property	1.0
+[person]	girlfriend	property	1.0
+[person]	father	property	1.0
+[person]	eyes	property	1.0
+[person]	death	property	1.0
+[person]	dead	property	1.0
+[person]	daughters	property	1.0
+[person]	daughter	property	1.0
+[person]	dad	property	1.0
+[person]	children	property	1.0
+[person]	brother	property	1.0
+[person]	boyfriend	property	1.0
+[person]	age	property	1.0
+[person]	voice	property	0.75
+[person]	teeth	property	0.75
+[person]	statue	property	0.75
+[person]	speech	property	0.75
+[person]	kids	property	0.75
+[person]	inventions	property	0.75
+[person]	friends	property	0.75
+[person]	foundation	property	0.75
+[person]	family	property	0.75
+[person]	education	property	0.75
+[person]	definition	property	0.75
+[person]	baby	property	0.75
+[person]	young	property	0.6
+[person]	tattoo	property	0.6
+[person]	stats	property	0.6
+[person]	school	property	0.6
+[person]	oscar	property	0.6
+[person]	history	property	0.6
+[person]	health	property	0.6
+[person]	hair	property	0.6
+[person]	glasses	property	0.6
+[person]	funeral	property	0.6
+[person]	characters	property	0.6
+[person]	car	property	0.6
+[person]	cancer	property	0.6
+[person]	beard	property	0.6
+[person]	sr	other	1.0
+[person]	return	other	1.0
+[person]	now	other	1.0
+[person]	macbeth	other	1.0
+[person]	2020	other	1.0
+[person]	ww2	other	0.75
+[person]	titanic	other	0.75
+[person]	star wars	other	0.75
+[person]	2017	other	0.75
+[person]	twin peaks	other	0.6
+[person]	trump	other	0.6
+[person]	spiderman	other	0.6
+[person]	park	other	0.6
+[person]	harry potter	other	0.6
+[person]	fifa 17	other	0.6
+[person]	day	other	0.6
+[political party]	youtube	website	1.0
+[political party]	wikipedia	website	1.0
+[political party]	wiki	website	1.0
+[political party]	website	website	1.0
+[political party]	twitter	website	1.0
+[political party]	facebook	website	1.0
+[political party]	reddit	website	0.75
+[political party]	official website	website	0.75
+[political party]	video	service	1.0
+[political party]	quotes	service	1.0
+[political party]	news	service	1.0
+[political party]	membership	service	1.0
+[political party]	latest news	service	1.0
+[political party]	facts	service	1.0
+[political party]	events	service	1.0
+[political party]	convention	service	1.0
+[political party]	contact	service	1.0
+[political party]	constitution	service	1.0
+[political party]	candidates 2017	service	1.0
+[political party]	views	service	0.75
+[political party]	pronunciation	service	0.75
+[political party]	policies	service	0.75
+[political party]	photos	service	0.75
+[political party]	members	service	0.75
+[political party]	manifesto	service	0.75
+[political party]	jobs	service	0.75
+[political party]	history of	service	0.75
+[political party]	goals	service	0.75
+[political party]	delegates	service	0.75
+[political party]	christian	service	0.75
+[political party]	candidates 2016	service	0.75
+[political party]	songs download	service	0.6
+[political party]	songs	service	0.6
+[political party]	seats	service	0.6
+[political party]	polls	service	0.6
+[political party]	manifesto 2015	service	0.6
+[political party]	immigration	service	0.6
+[political party]	history	service	0.6
+[political party]	democratic	service	0.6
+[political party]	usa	property	1.0
+[political party]	symbol	property	1.0
+[political party]	slogan	property	1.0
+[political party]	president	property	1.0
+[political party]	phone number	property	1.0
+[political party]	office address	property	1.0
+[political party]	office	property	1.0
+[political party]	of canada	property	1.0
+[political party]	national	property	1.0
+[political party]	leaders	property	1.0
+[political party]	leader	property	1.0
+[political party]	ireland	property	1.0
+[political party]	ideology	property	1.0
+[political party]	greece	property	1.0
+[political party]	executive director	property	1.0
+[political party]	elections	property	1.0
+[political party]	congress	property	1.0
+[political party]	chairman	property	1.0
+[political party]	australia	property	1.0
+[political party]	rules	property	0.75
+[political party]	party symbol	property	0.75
+[political party]	logo	property	0.75
+[political party]	list	property	0.75
+[political party]	headquarters	property	0.75
+[political party]	founder	property	0.75
+[political party]	flag	property	0.75
+[political party]	election results	property	0.75
+[political party]	contact details	property	0.75
+[political party]	chair	property	0.75
+[political party]	candidates	property	0.75
+[political party]	bylaws	property	0.75
+[political party]	anthem	property	0.75
+[political party]	address	property	0.75
+[political party]	manifesto 2017	property	0.6
+[political party]	israel	property	0.6
+[political party]	independent	property	0.6
+[political party]	central committee	property	0.6
+[political party]	canada	property	0.6
+[political party]	brexit	property	0.6
+[political party]	uk	other	0.75
+[political party]	russia	other	0.75
+[political party]	mps	other	0.75
+[political party]	corruption	other	0.75
+[political party]	caucus	other	0.75
+[political party]	apush	other	0.75
+[political party]	2016	other	0.75
+[political party]	2015	other	0.6
+[professional sports team]	wiki	website	1.0
+[professional sports team]	twitter	website	1.0
+[professional sports team]	facebook	website	1.0
+[professional sports team]	website	website	0.75
+[professional sports team]	trade rumors	service	1.0
+[professional sports team]	tickets	service	1.0
+[professional sports team]	standings	service	1.0
+[professional sports team]	stadium address	service	1.0
+[professional sports team]	song	service	1.0
+[professional sports team]	shop	service	1.0
+[professional sports team]	season tickets	service	1.0
+[professional sports team]	score	service	1.0
+[professional sports team]	schedule 2017	service	1.0
+[professional sports team]	schedule	service	1.0
+[professional sports team]	rumors	service	1.0
+[professional sports team]	news	service	1.0
+[professional sports team]	live	service	1.0
+[professional sports team]	hockey schedule	service	1.0
+[professional sports team]	depth chart	service	1.0
+[professional sports team]	baseball hat	service	1.0
+[professional sports team]	attendance	service	1.0
+[professional sports team]	baseball schedule	service	1.0
+[professional sports team]	youth hockey	service	0.75
+[professional sports team]	tryouts	service	0.75
+[professional sports team]	trade	service	0.75
+[professional sports team]	summer league	service	0.75
+[professional sports team]	stats	service	0.75
+[professional sports team]	softball	service	0.75
+[professional sports team]	seating chart	service	0.75
+[professional sports team]	schedule 2015	service	0.75
+[professional sports team]	record	service	0.75
+[professional sports team]	quarterback	service	0.75
+[professional sports team]	promotions	service	0.75
+[professional sports team]	players	service	0.75
+[professional sports team]	merchandise	service	0.75
+[professional sports team]	lines	service	0.75
+[professional sports team]	kit	service	0.75
+[professional sports team]	jobs	service	0.75
+[professional sports team]	hockey team	service	0.75
+[professional sports team]	helmet	service	0.75
+[professional sports team]	goalies	service	0.75
+[professional sports team]	forum	service	0.75
+[professional sports team]	football	service	0.75
+[professional sports team]	affiliate	service	0.75
+[professional sports team]	uniforms	service	0.6
+[professional sports team]	training camp	service	0.6
+[professional sports team]	shirt	service	0.6
+[professional sports team]	roster	service	0.6
+[professional sports team]	results	service	0.6
+[professional sports team]	radio	service	0.6
+[professional sports team]	parking	service	0.6
+[professional sports team]	new stadium	service	0.6
+[professional sports team]	mascot	service	0.6
+[professional sports team]	lacrosse	service	0.6
+[professional sports team]	jersey for sale	service	0.6
+[professional sports team]	history	service	0.6
+[professional sports team]	game	service	0.6
+[professional sports team]	football schedule	service	0.6
+[professional sports team]	festival	service	0.6
+[professional sports team]	coaches	service	0.6
+[professional sports team]	2017 schedule	service	0.6
+[professional sports team]	stadium	property	1.0
+[professional sports team]	squad	property	1.0
+[professional sports team]	logo	property	1.0
+[professional sports team]	cap	property	1.0
+[professional sports team]	basketball team	property	1.0
+[professional sports team]	basketball	property	1.0
+[professional sports team]	address	property	1.0
+[professional sports team]	aau basketball	property	1.0
+[professional sports team]	team	property	0.75
+[professional sports team]	store	property	0.75
+[professional sports team]	stanley cup	property	0.75
+[professional sports team]	soccer	property	0.75
+[professional sports team]	owner	property	0.75
+[professional sports team]	milwaukee	property	0.75
+[professional sports team]	hockey	property	0.75
+[professional sports team]	front office	property	0.75
+[professional sports team]	crickets	property	0.75
+[professional sports team]	contact	property	0.75
+[professional sports team]	baseball team	property	0.75
+[professional sports team]	baseball	property	0.75
+[professional sports team]	baltimore	property	0.75
+[professional sports team]	arena	property	0.75
+[professional sports team]	apparel	property	0.75
+[professional sports team]	academy	property	0.75
+[professional sports team]	youth football	property	0.6
+[professional sports team]	volleyball	property	0.6
+[professional sports team]	table	property	0.6
+[professional sports team]	soccerway	property	0.6
+[professional sports team]	salary	property	0.6
+[professional sports team]	roster 2017	property	0.6
+[professional sports team]	roster 2016	property	0.6
+[professional sports team]	manager	property	0.6
+[professional sports team]	jersey	property	0.6
+[professional sports team]	hockey jersey	property	0.6
+[professional sports team]	hat	property	0.6
+[professional sports team]	fixtures	property	0.6
+[professional sports team]	coach	property	0.6
+[professional sports team]	club	property	0.6
+[professional sports team]	arena football	property	0.6
+[professional sports team]	ahl	property	0.6
+[professional sports team]	aau	property	0.6
+[professional sports team]	field	other	1.0
+[professional sports team]	2015	other	1.0
+[professional sports team]	qb	other	0.75
+[professional sports team]	2017	other	0.75
+[professional sports team]	fc	other	0.6
+[professional sports team]	bbc	other	0.6
+[professional sports team]	2016	other	0.6
+[programming language]	wikipedia	website	1.0
+[programming language]	wiki	website	1.0
+[programming language]	github	website	1.0
+[programming language]	tool	service	1.0
+[programming language]	map	service	1.0
+[programming language]	jobs	service	1.0
+[programming language]	interview questions	service	1.0
+[programming language]	examples	service	1.0
+[programming language]	download	service	1.0
+[programming language]	uses	service	0.75
+[programming language]	tutorial pdf	service	0.75
+[programming language]	training	service	0.75
+[programming language]	solutions	service	0.75
+[programming language]	review	service	0.75
+[programming language]	learn	service	0.75
+[programming language]	interpreter	service	0.75
+[programming language]	for windows	service	0.75
+[programming language]	example	service	0.75
+[programming language]	books	service	0.75
+[programming language]	book	service	0.75
+[programming language]	windows	service	0.6
+[programming language]	unix	service	0.6
+[programming language]	tutorial	service	0.6
+[programming language]	tools	service	0.6
+[programming language]	software	service	0.6
+[programming language]	programming	service	0.6
+[programming language]	pdf	service	0.6
+[programming language]	for mac	service	0.6
+[programming language]	for loop	service	0.6
+[programming language]	editor	service	0.6
+[programming language]	app	service	0.6
+[programming language]	syntax	property	1.0
+[programming language]	programming language	property	1.0
+[programming language]	language	property	1.0
+[programming language]	gui	property	1.0
+[programming language]	vs python	property	0.75
+[programming language]	synonym	property	0.75
+[programming language]	substring	property	0.75
+[programming language]	source code	property	0.75
+[programming language]	price	property	0.75
+[programming language]	ppt	property	0.75
+[programming language]	meaning	property	0.75
+[programming language]	ide	property	0.75
+[programming language]	functions	property	0.75
+[programming language]	full form	property	0.75
+[programming language]	definition	property	0.75
+[programming language]	commands	property	0.75
+[programming language]	android	property	0.75
+[programming language]	specification	property	0.6
+[programming language]	popularity	property	0.6
+[programming language]	performance	property	0.6
+[programming language]	manual	property	0.6
+[programming language]	guide	property	0.6
+[programming language]	games	property	0.6
+[programming language]	file	property	0.6
+[programming language]	documentation	property	0.6
+[programming language]	comment	property	0.6
+[programming language]	code	property	0.6
+[programming language]	3	other	1.0
+[programming language]	2015	other	1.0
+[programming language]	movie	other	0.75
+[programming language]	hello world	other	0.75
+[programming language]	2017	other	0.75
+[programming language]	2	other	0.75
+[programming language]	if	other	0.6
+[programming language]	foreach	other	0.6
+[railway]	wiki	website	1.0
+[railway]	groupon	website	1.0
+[railway]	facebook	website	1.0
+[railway]	pantip	website	1.0
+[railway]	youtube	website	0.75
+[railway]	tripadvisor	website	0.75
+[railway]	blog	website	0.75
+[railway]	videos	service	1.0
+[railway]	trains	service	1.0
+[railway]	train timetable	service	1.0
+[railway]	train times	service	1.0
+[railway]	train simulator	service	1.0
+[railway]	stops	service	1.0
+[railway]	stock list	service	1.0
+[railway]	society	service	1.0
+[railway]	route map	service	1.0
+[railway]	roster	service	1.0
+[railway]	review	service	1.0
+[railway]	promo code	service	1.0
+[railway]	project	service	1.0
+[railway]	photos	service	1.0
+[railway]	pass	service	1.0
+[railway]	parking	service	1.0
+[railway]	news	service	1.0
+[railway]	locomotive roster	service	1.0
+[railway]	loco roster	service	1.0
+[railway]	lines	service	1.0
+[railway]	jobs	service	1.0
+[railway]	improvements	service	1.0
+[railway]	for sale	service	1.0
+[railway]	extension	service	1.0
+[railway]	engineering works	service	1.0
+[railway]	discount code	service	1.0
+[railway]	discount	service	1.0
+[railway]	derailment	service	1.0
+[railway]	delays	service	1.0
+[railway]	delay	service	1.0
+[railway]	coupon	service	1.0
+[railway]	car park	service	1.0
+[railway]	tickets	service	1.0
+[railway]	video	service	0.75
+[railway]	upgrade	service	0.75
+[railway]	trail	service	0.75
+[railway]	times	service	0.75
+[railway]	stations	service	0.75
+[railway]	station	service	0.75
+[railway]	route	service	0.75
+[railway]	rolling stock	service	0.75
+[railway]	railworks	service	0.75
+[railway]	prices	service	0.75
+[railway]	map	service	0.75
+[railway]	locomotives	service	0.75
+[railway]	jr map	service	0.75
+[railway]	history	service	0.75
+[railway]	freight	service	0.75
+[railway]	fares	service	0.75
+[railway]	electrification	service	0.75
+[railway]	bridge	service	0.75
+[railway]	walk	service	0.6
+[railway]	tunnel	service	0.6
+[railway]	train	service	0.6
+[railway]	shop	service	0.6
+[railway]	reviews	service	0.6
+[railway]	polar express	service	0.6
+[railway]	last train	service	0.6
+[railway]	jr timetable	service	0.6
+[railway]	events	service	0.6
+[railway]	dogs	service	0.6
+[railway]	cost	service	0.6
+[railway]	coaches	service	0.6
+[railway]	closure	service	0.6
+[railway]	cafe	service	0.6
+[railway]	books	service	0.6
+[railway]	accident	service	0.6
+[railway]	tokyo	property	1.0
+[railway]	schedule	property	1.0
+[railway]	railway line	property	1.0
+[railway]	postcode	property	1.0
+[railway]	north	property	1.0
+[railway]	new trains	property	1.0
+[railway]	line	property	1.0
+[railway]	museum	property	0.75
+[railway]	merseyrail	property	0.75
+[railway]	hours	property	0.75
+[railway]	fare	property	0.75
+[railway]	timetable	property	0.6
+[railway]	opening times	property	0.6
+[railway]	japan	property	0.6
+[railway]	address	property	0.6
+[railway]	webcam	other	1.0
+[railway]	company	other	1.0
+[railway]	co	other	1.0
+[railway]	2017	other	1.0
+[railway]	2014	other	1.0
+[railway]	jr	other	0.75
+[railway]	2016	other	0.75
+[railway]	walks	other	0.6
+[railway]	santa	other	0.6
+[railway]	jr pass	other	0.6
+[railway]	christmas	other	0.6
+[railway]	2015	other	0.6
+[restaurant]	yelp	website	1.0
+[restaurant]	wiki	website	1.0
+[restaurant]	twitter	website	1.0
+[restaurant]	linkedin	website	1.0
+[restaurant]	app	website	1.0
+[restaurant]	tripadvisor	website	0.75
+[restaurant]	review	website	0.75
+[restaurant]	groupon	website	0.6
+[restaurant]	wine list	service	1.0
+[restaurant]	vouchers	service	1.0
+[restaurant]	voucher	service	1.0
+[restaurant]	tour	service	1.0
+[restaurant]	sauces	service	1.0
+[restaurant]	sauce	service	1.0
+[restaurant]	salads	service	1.0
+[restaurant]	rewards	service	1.0
+[restaurant]	restaurant week menu	service	1.0
+[restaurant]	restaurant menu	service	1.0
+[restaurant]	recipes	service	1.0
+[restaurant]	pub	service	1.0
+[restaurant]	pizza	service	1.0
+[restaurant]	parking	service	1.0
+[restaurant]	offers	service	1.0
+[restaurant]	menu prices	service	1.0
+[restaurant]	lunch menu	service	1.0
+[restaurant]	jobs	service	1.0
+[restaurant]	gift card	service	1.0
+[restaurant]	food	service	1.0
+[restaurant]	express	service	1.0
+[restaurant]	dress code	service	1.0
+[restaurant]	delivery	service	1.0
+[restaurant]	deals	service	1.0
+[restaurant]	coupons	service	1.0
+[restaurant]	coupon code	service	1.0
+[restaurant]	cookbook	service	1.0
+[restaurant]	commercial	service	1.0
+[restaurant]	chef	service	1.0
+[restaurant]	catering	service	1.0
+[restaurant]	buffet	service	1.0
+[restaurant]	breakfast menu	service	1.0
+[restaurant]	booking	service	1.0
+[restaurant]	application	service	1.0
+[restaurant]	careers	service	1.0
+[restaurant]	wedding	service	0.75
+[restaurant]	vegan	service	0.75
+[restaurant]	stock	service	0.75
+[restaurant]	specials	service	0.75
+[restaurant]	reservations	service	0.75
+[restaurant]	recipe	service	0.75
+[restaurant]	promo code	service	0.75
+[restaurant]	prices	service	0.75
+[restaurant]	price	service	0.75
+[restaurant]	nutrition	service	0.75
+[restaurant]	menu	service	0.75
+[restaurant]	meaning	service	0.75
+[restaurant]	lunch	service	0.75
+[restaurant]	kosher	service	0.75
+[restaurant]	happy hour	service	0.75
+[restaurant]	grill	service	0.75
+[restaurant]	drink	service	0.75
+[restaurant]	dinner	service	0.75
+[restaurant]	coupon	service	0.75
+[restaurant]	chicken	service	0.75
+[restaurant]	calories	service	0.75
+[restaurant]	breakfast	service	0.75
+[restaurant]	reviews	service	0.6
+[restaurant]	order online	service	0.6
+[restaurant]	menu nutrition	service	0.6
+[restaurant]	investor relations	service	0.6
+[restaurant]	ice cream	service	0.6
+[restaurant]	for sale	service	0.6
+[restaurant]	burger	service	0.6
+[restaurant]	branches	service	0.6
+[restaurant]	aquavit	service	0.6
+[restaurant]	restaurant	property	1.0
+[restaurant]	phone number	property	1.0
+[restaurant]	owner	property	1.0
+[restaurant]	opening hours	property	1.0
+[restaurant]	logo	property	1.0
+[restaurant]	location	property	1.0
+[restaurant]	head office	property	1.0
+[restaurant]	closing	property	1.0
+[restaurant]	closed	property	1.0
+[restaurant]	anaheim	property	1.0
+[restaurant]	vegas	property	0.75
+[restaurant]	uk	property	0.75
+[restaurant]	tokyo	property	0.75
+[restaurant]	singapore	property	0.75
+[restaurant]	saskatoon	property	0.75
+[restaurant]	san diego	property	0.75
+[restaurant]	san antonio	property	0.75
+[restaurant]	qatar	property	0.75
+[restaurant]	plano	property	0.75
+[restaurant]	philippines	property	0.75
+[restaurant]	paris	property	0.75
+[restaurant]	orlando	property	0.75
+[restaurant]	number	property	0.75
+[restaurant]	new york	property	0.75
+[restaurant]	miami	property	0.75
+[restaurant]	malaysia	property	0.75
+[restaurant]	london	property	0.75
+[restaurant]	jeddah	property	0.75
+[restaurant]	japan	property	0.75
+[restaurant]	indonesia	property	0.75
+[restaurant]	hours	property	0.75
+[restaurant]	hk	property	0.75
+[restaurant]	headquarters	property	0.75
+[restaurant]	dallas	property	0.75
+[restaurant]	corporate office	property	0.75
+[restaurant]	canada	property	0.75
+[restaurant]	brisbane	property	0.75
+[restaurant]	breakfast hours	property	0.75
+[restaurant]	austin	property	0.75
+[restaurant]	atlanta	property	0.75
+[restaurant]	winnipeg	property	0.6
+[restaurant]	vancouver	property	0.6
+[restaurant]	tulsa	property	0.6
+[restaurant]	toronto	property	0.6
+[restaurant]	sydney	property	0.6
+[restaurant]	soho	property	0.6
+[restaurant]	seattle	property	0.6
+[restaurant]	san jose	property	0.6
+[restaurant]	san francisco	property	0.6
+[restaurant]	portland	property	0.6
+[restaurant]	phoenix	property	0.6
+[restaurant]	perth	property	0.6
+[restaurant]	ottawa	property	0.6
+[restaurant]	nashville	property	0.6
+[restaurant]	los angeles	property	0.6
+[restaurant]	llc	property	0.6
+[restaurant]	gluten free	property	0.6
+[restaurant]	glasgow	property	0.6
+[restaurant]	franchise	property	0.6
+[restaurant]	dublin	property	0.6
+[restaurant]	cafe	property	0.6
+[restaurant]	baltimore	property	0.6
+[restaurant]	sf	other	1.0
+[restaurant]	nj	other	1.0
+[restaurant]	game	other	1.0
+[restaurant]	nyc	other	0.75
+[restaurant]	edinburgh	other	0.75
+[restaurant]	ny	other	0.6
+[restaurant]	new york city	other	0.6
+[restaurant]	movie	other	0.6
+[restaurant]	houston	other	0.6
+[restaurant]	dubai	other	0.6
+[restaurant]	detroit	other	0.6
+[restaurant]	denver	other	0.6
+[restaurant]	death	other	0.6
+[restaurant]	dc	other	0.6
+[restaurant]	calgary	other	0.6
+[restaurant]	brooklyn	other	0.6
+[sports championship]	wikipedia	website	1.0
+[sports championship]	wiki	website	1.0
+[sports championship]	tickets	service	1.0
+[sports championship]	schedule	service	1.0
+[sports championship]	predictions	service	1.0
+[sports championship]	live streaming	service	1.0
+[sports championship]	final	service	1.0
+[sports championship]	2018 tickets	service	1.0
+[sports championship]	2017 schedule	service	1.0
+[sports championship]	2017 results	service	1.0
+[sports championship]	scores	service	0.75
+[sports championship]	rankings	service	0.75
+[sports championship]	live	service	0.75
+[sports championship]	history	service	0.75
+[sports championship]	game	service	0.75
+[sports championship]	draw	service	0.75
+[sports championship]	standings	service	0.6
+[sports championship]	fixtures	service	0.6
+[sports championship]	champions	service	0.6
+[sports championship]	2017 tickets	service	0.6
+[sports championship]	stadium	property	1.0
+[sports championship]	trophy	property	0.75
+[sports championship]	winners	property	0.6
+[sports championship]	table	property	0.6
+[sports championship]	results	property	0.6
+[sports championship]	prize money	property	0.6
+[sports championship]	location	property	0.6
+[sports championship]	dates	property	0.6
+[sports championship]	bracket	property	0.6
+[sports championship]	2018	other	1.0
+[sports championship]	2012	other	1.0
+[sports championship]	2019	other	0.75
+[sports championship]	2010	other	0.75
+[sports championship]	2017	other	0.6
+[sports championship]	2016	other	0.6
+[sports championship]	2015	other	0.6
+[sports championship]	2014	other	0.6
+[sports championship]	2011	other	0.6
+[sports championship]	2007	other	0.6
+[star]	wikipedia	website	1.0
+[star]	wiki	website	1.0
+[star]	star facts	service	0.75
+[star]	pronunciation	service	0.6
+[star]	facts	service	0.6
+[star]	type of star	property	1.0
+[star]	temperature	property	1.0
+[star]	supernova	property	1.0
+[star]	star type	property	1.0
+[star]	spectral class	property	1.0
+[star]	size	property	1.0
+[star]	meaning	property	1.0
+[star]	magnitude	property	1.0
+[star]	location	property	1.0
+[star]	distance	property	1.0
+[star]	color	property	1.0
+[star]	cluster	property	1.0
+[star]	age	property	1.0
+[star]	distance from earth	property	1.0
+[star]	system	property	0.75
+[star]	surface temperature	property	0.75
+[star]	star trek	property	0.75
+[star]	star	property	0.75
+[star]	planet	property	0.75
+[star]	mass	property	0.75
+[star]	luminosity	property	0.75
+[star]	light curve	property	0.75
+[star]	epsilon	property	0.75
+[star]	diameter	property	0.75
+[star]	bintang	property	0.75
+[star]	astrology	property	0.75
+[star]	planets	property	0.6
+[star]	nasa	property	0.6
+[star]	absolute magnitude	property	0.6
+[star]	c	other	1.0
+[star]	b	other	0.75
+[star]	d	other	0.6
+[tower]	wiki	website	1.0
+[tower]	tickets	service	1.0
+[tower]	ticket	service	1.0
+[tower]	facts	service	1.0
+[tower]	restaurant	service	0.75
+[tower]	revolving restaurant	service	0.6
+[tower]	at night	service	0.6
+[tower]	hours	property	1.0
+[tower]	height	property	1.0
+[tower]	cost	property	1.0
+[tower]	address	property	1.0
+[tower]	vector	property	0.75
+[tower]	price	property	0.75
+[tower]	parking	property	0.75
+[tower]	view	property	0.6
+[tower]	tower	property	0.6
+[tower]	observation deck	property	0.6
+[travel destination]	craigslist	website	0.75
+[travel destination]	weather radar	service	1.0
+[travel destination]	weather october	service	1.0
+[travel destination]	vacation	service	1.0
+[travel destination]	transport	service	1.0
+[travel destination]	tours	service	1.0
+[travel destination]	tour	service	1.0
+[travel destination]	things to do	service	1.0
+[travel destination]	station	service	1.0
+[travel destination]	police	service	1.0
+[travel destination]	metro map	service	1.0
+[travel destination]	menu	service	1.0
+[travel destination]	map	service	1.0
+[travel destination]	mall	service	1.0
+[travel destination]	library	service	1.0
+[travel destination]	images	service	1.0
+[travel destination]	hospital	service	1.0
+[travel destination]	history	service	1.0
+[travel destination]	express	service	1.0
+[travel destination]	directions	service	1.0
+[travel destination]	college	service	1.0
+[travel destination]	cabins	service	1.0
+[travel destination]	bank	service	1.0
+[travel destination]	attractions	service	1.0
+[travel destination]	airlines	service	1.0
+[travel destination]	weather	service	0.75
+[travel destination]	war	service	0.75
+[travel destination]	tv guide	service	0.75
+[travel destination]	tourism	service	0.75
+[travel destination]	temperature	service	0.75
+[travel destination]	sushi	service	0.75
+[travel destination]	stock exchange	service	0.75
+[travel destination]	restaurants	service	0.75
+[travel destination]	resorts	service	0.75
+[travel destination]	pin code	service	0.75
+[travel destination]	parking	service	0.75
+[travel destination]	news	service	0.75
+[travel destination]	jobs	service	0.75
+[travel destination]	hotels	service	0.75
+[travel destination]	holidays	service	0.75
+[travel destination]	flights	service	0.75
+[travel destination]	crime	service	0.75
+[travel destination]	beer	service	0.75
+[travel destination]	airport parking	service	0.75
+[travel destination]	zoo	service	0.6
+[travel destination]	visa	service	0.6
+[travel destination]	university ranking	service	0.6
+[travel destination]	university	service	0.6
+[travel destination]	to delhi flight	service	0.6
+[travel destination]	time zone	service	0.6
+[travel destination]	time	service	0.6
+[travel destination]	tickets	service	0.6
+[travel destination]	song	service	0.6
+[travel destination]	soccer	service	0.6
+[travel destination]	shoes	service	0.6
+[travel destination]	rugby	service	0.6
+[travel destination]	post	service	0.6
+[travel destination]	population	service	0.6
+[travel destination]	museum	service	0.6
+[travel destination]	movie	service	0.6
+[travel destination]	live	service	0.6
+[travel destination]	league	service	0.6
+[travel destination]	language	service	0.6
+[travel destination]	international school	service	0.6
+[travel destination]	high school	service	0.6
+[travel destination]	food	service	0.6
+[travel destination]	flag	service	0.6
+[travel destination]	ferry	service	0.6
+[travel destination]	facts	service	0.6
+[travel destination]	events	service	0.6
+[travel destination]	elevation	service	0.6
+[travel destination]	currency	service	0.6
+[travel destination]	cruise	service	0.6
+[travel destination]	cricket	service	0.6
+[travel destination]	council	service	0.6
+[travel destination]	city council	service	0.6
+[travel destination]	cinema	service	0.6
+[travel destination]	cast	service	0.6
+[travel destination]	cafe	service	0.6
+[travel destination]	bridge	service	0.6
+[travel destination]	beach	service	0.6
+[travel destination]	apartments	service	0.6
+[travel destination]	airport	service	0.6
+[travel destination]	zip code	property	1.0
+[travel destination]	train station	property	1.0
+[travel destination]	theatre	property	1.0
+[travel destination]	spain	property	1.0
+[travel destination]	postal code	property	1.0
+[travel destination]	ontario	property	1.0
+[travel destination]	national park	property	1.0
+[travel destination]	japan	property	1.0
+[travel destination]	country code	property	1.0
+[travel destination]	corporation	property	1.0
+[travel destination]	address	property	1.0
+[travel destination]	university of technology	property	0.75
+[travel destination]	united	property	0.75
+[travel destination]	to boston	property	0.75
+[travel destination]	president	property	0.75
+[travel destination]	postcode	property	0.75
+[travel destination]	park	property	0.75
+[travel destination]	opera house	property	0.75
+[travel destination]	ohio	property	0.75
+[travel destination]	london	property	0.75
+[travel destination]	lake	property	0.75
+[travel destination]	house	property	0.75
+[travel destination]	hours	property	0.75
+[travel destination]	hotel	property	0.75
+[travel destination]	high court	property	0.75
+[travel destination]	dog	property	0.75
+[travel destination]	cathedral	property	0.75
+[travel destination]	castle	property	0.75
+[travel destination]	canada	property	0.75
+[travel destination]	beaches	property	0.75
+[travel destination]	area code	property	0.75
+[travel destination]	aquarium	property	0.75
+[travel destination]	temple	property	0.6
+[travel destination]	stadium	property	0.6
+[travel destination]	resort	property	0.6
+[travel destination]	real estate	property	0.6
+[travel destination]	port	property	0.6
+[travel destination]	maine	property	0.6
+[travel destination]	islands	property	0.6
+[travel destination]	institute of technology	property	0.6
+[travel destination]	indiana	property	0.6
+[travel destination]	definition	property	0.6
+[travel destination]	county	property	0.6
+[travel destination]	convention	property	0.6
+[travel destination]	city	property	0.6
+[travel destination]	camping	property	0.6
+[travel destination]	arena	property	0.6
+[travel destination]	airport code	property	0.6
+[travel destination]	today	other	1.0
+[travel destination]	il	other	1.0
+[travel destination]	fc	other	1.0
+[travel destination]	2017	other	1.0
+[travel destination]	wetter	other	0.75
+[travel destination]	va	other	0.75
+[travel destination]	pizza	other	0.75
+[travel destination]	nj	other	0.75
+[travel destination]	dmv	other	0.75
+[travel destination]	sun	other	0.6
+[travel destination]	police department	other	0.6
+[travel destination]	ny	other	0.6
+[travel destination]	ma	other	0.6
+[travel destination]	lyrics	other	0.6
+[travel destination]	football	other	0.6
+[travel destination]	ct	other	0.6
+[tropical cyclone]	wiki	website	0.75
+[tropical cyclone]	video	service	1.0
+[tropical cyclone]	track map	service	1.0
+[tropical cyclone]	track	service	1.0
+[tropical cyclone]	storm surge	service	1.0
+[tropical cyclone]	impacts	service	1.0
+[tropical cyclone]	images	service	1.0
+[tropical cyclone]	history	service	1.0
+[tropical cyclone]	deaths	service	1.0
+[tropical cyclone]	year	service	0.75
+[tropical cyclone]	pictures	service	0.75
+[tropical cyclone]	photos	service	0.75
+[tropical cyclone]	tracking map	service	0.6
+[tropical cyclone]	landfall	service	0.6
+[tropical cyclone]	cyclone	service	0.6
+[tropical cyclone]	case study	service	0.6
+[tropical cyclone]	wind speed	property	1.0
+[tropical cyclone]	philippines	property	1.0
+[tropical cyclone]	jamaica	property	1.0
+[tropical cyclone]	florida	property	1.0
+[tropical cyclone]	damage	property	1.0
+[tropical cyclone]	australia	property	1.0
+[tropical cyclone]	haiti	property	0.75
+[tropical cyclone]	date	property	0.75
+[tropical cyclone]	cuba	property	0.6
+[tropical cyclone]	category	property	0.6
+[tropical cyclone]	2015	other	1.0
+[tropical cyclone]	1999	other	1.0
+[tropical cyclone]	severe tropical	other	0.75
+[tropical cyclone]	2017	other	0.75
+[tropical cyclone]	1984	other	0.6
+[tv station]	zap2it	website	1.0
+[tv station]	youtube	website	1.0
+[tv station]	wiki	website	1.0
+[tv station]	twitter	website	1.0
+[tv station]	facebook	website	1.0
+[tv station]	weather team	service	1.0
+[tv station]	weather radar	service	1.0
+[tv station]	weather forecast	service	1.0
+[tv station]	weather	service	1.0
+[tv station]	tv schedule	service	1.0
+[tv station]	traffic	service	1.0
+[tv station]	streaming	service	1.0
+[tv station]	stream	service	1.0
+[tv station]	sports	service	1.0
+[tv station]	shows	service	1.0
+[tv station]	series	service	1.0
+[tv station]	reporters	service	1.0
+[tv station]	programm	service	1.0
+[tv station]	online	service	1.0
+[tv station]	obituaries	service	1.0
+[tv station]	news live	service	1.0
+[tv station]	news anchors	service	1.0
+[tv station]	news	service	1.0
+[tv station]	movies	service	1.0
+[tv station]	morning show	service	1.0
+[tv station]	live streaming	service	1.0
+[tv station]	live stream	service	1.0
+[tv station]	listings	service	1.0
+[tv station]	jobs	service	1.0
+[tv station]	guide	service	1.0
+[tv station]	contest	service	1.0
+[tv station]	channels	service	1.0
+[tv station]	careers	service	1.0
+[tv station]	breaking news	service	1.0
+[tv station]	anchors	service	1.0
+[tv station]	8 weather	service	1.0
+[tv station]	6 weather	service	1.0
+[tv station]	weather app	service	0.75
+[tv station]	video	service	0.75
+[tv station]	tv shows	service	0.75
+[tv station]	titantv	service	0.75
+[tv station]	time warner cable	service	0.75
+[tv station]	station	service	0.75
+[tv station]	staff	service	0.75
+[tv station]	show	service	0.75
+[tv station]	schedule	service	0.75
+[tv station]	program schedule	service	0.75
+[tv station]	plus	service	0.75
+[tv station]	personalities	service	0.75
+[tv station]	news app	service	0.75
+[tv station]	locatetv	service	0.75
+[tv station]	local news	service	0.75
+[tv station]	live tv	service	0.75
+[tv station]	live	service	0.75
+[tv station]	election results	service	0.75
+[tv station]	dish	service	0.75
+[tv station]	directv	service	0.75
+[tv station]	comcast	service	0.75
+[tv station]	closings	service	0.75
+[tv station]	channel	service	0.75
+[tv station]	app	service	0.75
+[tv station]	7 weather	service	0.75
+[tv station]	12 weather	service	0.75
+[tv station]	tv	service	0.6
+[tv station]	telemundo	service	0.6
+[tv station]	recipes	service	0.6
+[tv station]	radio	service	0.6
+[tv station]	on dish	service	0.6
+[tv station]	metar	service	0.6
+[tv station]	hd	service	0.6
+[tv station]	grittv	service	0.6
+[tv station]	dish network	service	0.6
+[tv station]	directv channel	service	0.6
+[tv station]	direct tv	service	0.6
+[tv station]	phone number	property	1.0
+[tv station]	logo	property	1.0
+[tv station]	address	property	1.0
+[tv station]	news director	property	0.6
+[tv station]	contact	property	0.6
+[tv station]	new york	other	1.0
+[tv station]	dallas	other	1.0
+[tv station]	airport	other	1.0
+[tv station]	9	other	1.0
+[tv station]	5	other	1.0
+[tv station]	4	other	1.0
+[tv station]	2017	other	1.0
+[tv station]	2	other	1.0
+[tv station]	13	other	1.0
+[tv station]	12	other	1.0
+[tv station]	passport	other	0.75
+[tv station]	mr food	other	0.75
+[tv station]	india	other	0.75
+[tv station]	germany	other	0.75
+[tv station]	downton abbey	other	0.75
+[tv station]	chicago	other	0.75
+[tv station]	3	other	0.75
+[tv station]	antenna tv	other	0.6
+[tv station]	5 weather	other	0.6
+[tv station]	10	other	0.6
+[university]	wiki	website	1.0
+[university]	webmail	website	1.0
+[university]	world ranking	service	1.0
+[university]	visit	service	1.0
+[university]	vacancies	service	1.0
+[university]	transcripts	service	1.0
+[university]	tours	service	1.0
+[university]	summer school	service	1.0
+[university]	summer program	service	1.0
+[university]	softball	service	1.0
+[university]	soccer	service	1.0
+[university]	school of medicine	service	1.0
+[university]	scholarships	service	1.0
+[university]	scholarship	service	1.0
+[university]	reviews	service	1.0
+[university]	review	service	1.0
+[university]	ranking 2017	service	1.0
+[university]	qs ranking	service	1.0
+[university]	press	service	1.0
+[university]	placements	service	1.0
+[university]	nursing	service	1.0
+[university]	news	service	1.0
+[university]	moodle	service	1.0
+[university]	mba fees	service	1.0
+[university]	masters	service	1.0
+[university]	login	service	1.0
+[university]	llm	service	1.0
+[university]	library	service	1.0
+[university]	lacrosse	service	1.0
+[university]	jobs	service	1.0
+[university]	hospital	service	1.0
+[university]	graduation	service	1.0
+[university]	graduate programs	service	1.0
+[university]	football schedule	service	1.0
+[university]	football	service	1.0
+[university]	financial aid	service	1.0
+[university]	fees	service	1.0
+[university]	faculty	service	1.0
+[university]	executive education	service	1.0
+[university]	events	service	1.0
+[university]	enrollment	service	1.0
+[university]	endowment	service	1.0
+[university]	class profile	service	1.0
+[university]	choir	service	1.0
+[university]	careers	service	1.0
+[university]	bookstore	service	1.0
+[university]	athletics staff directory	service	1.0
+[university]	admissions	service	1.0
+[university]	accreditation	service	1.0
+[university]	academic calendar	service	1.0
+[university]	tuition fees	service	0.75
+[university]	store	service	0.75
+[university]	results 2017	service	0.75
+[university]	result	service	0.75
+[university]	residence	service	0.75
+[university]	requirements	service	0.75
+[university]	registrar	service	0.75
+[university]	programs	service	0.75
+[university]	placement	service	0.75
+[university]	pa program	service	0.75
+[university]	open days	service	0.75
+[university]	map	service	0.75
+[university]	housing	service	0.75
+[university]	hockey	service	0.75
+[university]	history	service	0.75
+[university]	economics	service	0.75
+[university]	dorms	service	0.75
+[university]	division	service	0.75
+[university]	distance education	service	0.75
+[university]	directory	service	0.75
+[university]	cut off	service	0.75
+[university]	courses offered	service	0.75
+[university]	courses	service	0.75
+[university]	athletics	service	0.75
+[university]	architecture	service	0.75
+[university]	admission 2017	service	0.75
+[university]	accommodation	service	0.75
+[university]	tuition	service	0.6
+[university]	term dates	service	0.6
+[university]	phd vacancies	service	0.6
+[university]	online application	service	0.6
+[university]	online	service	0.6
+[university]	notable alumni	service	0.6
+[university]	medicine	service	0.6
+[university]	medical center	service	0.6
+[university]	mba ranking	service	0.6
+[university]	majors	service	0.6
+[university]	law	service	0.6
+[university]	fee structure	service	0.6
+[university]	faculty of medicine	service	0.6
+[university]	email	service	0.6
+[university]	cost	service	0.6
+[university]	college	service	0.6
+[university]	chemistry	service	0.6
+[university]	basketball	service	0.6
+[university]	baseball	service	0.6
+[university]	application	service	0.6
+[university]	admission	service	0.6
+[university]	acceptance rate	service	0.6
+[university]	physics	property	1.0
+[university]	pharmacy	property	1.0
+[university]	museum	property	1.0
+[university]	london	property	1.0
+[university]	location	property	1.0
+[university]	jaipur	property	1.0
+[university]	india	property	1.0
+[university]	graduate school	property	1.0
+[university]	delhi	property	1.0
+[university]	college of medicine	property	1.0
+[university]	canada	property	1.0
+[university]	average gpa	property	1.0
+[university]	atlanta	property	1.0
+[university]	address	property	1.0
+[university]	medical school	property	1.0
+[university]	vet school	property	0.75
+[university]	sydney	property	0.75
+[university]	school of dentistry	property	0.75
+[university]	sat scores	property	0.75
+[university]	president	property	0.75
+[university]	mumbai	property	0.75
+[university]	malaysia	property	0.75
+[university]	logo	property	0.75
+[university]	law school	property	0.75
+[university]	dentistry	property	0.75
+[university]	chennai	property	0.75
+[university]	canvas	property	0.75
+[university]	campus	property	0.75
+[university]	business school	property	0.75
+[university]	bangalore	property	0.75
+[university]	tuition fee	property	0.6
+[university]	singapore	property	0.6
+[university]	school of law	property	0.6
+[university]	result 2017	property	0.6
+[university]	ranking	property	0.6
+[university]	open day	property	0.6
+[university]	mim	property	0.6
+[university]	mba	property	0.6
+[university]	mascot	property	0.6
+[university]	dubai	property	0.6
+[university]	dental school	property	0.6
+[university]	contact number	property	0.6
+[university]	contact details	property	0.6
+[university]	computer science	property	0.6
+[university]	calendar	property	0.6
+[university]	australia	property	0.6
+[university]	alumni	property	0.6
+[university]	hyderabad	other	0.6
+[war]	youtube	website	1.0
+[war]	wikipedia	website	1.0
+[war]	wiki	website	1.0
+[war]	reddit	website	1.0
+[war]	video	service	1.0
+[war]	uniforms	service	1.0
+[war]	primary sources	service	1.0
+[war]	pictures	service	1.0
+[war]	museum	service	1.0
+[war]	film	service	1.0
+[war]	dates	service	1.0
+[war]	causes	service	1.0
+[war]	casualties	service	1.0
+[war]	summary	service	0.75
+[war]	movie	service	0.75
+[war]	memorial	service	0.75
+[war]	map	service	0.75
+[war]	facts	service	0.75
+[war]	explained	service	0.75
+[war]	documentary	service	0.75
+[war]	causes of the	service	0.75
+[war]	causes of	service	0.75
+[war]	weapons	service	0.6
+[war]	timeline	service	0.6
+[war]	refugees	service	0.6
+[war]	images	service	0.6
+[war]	game	service	0.6
+[war]	effects	service	0.6
+[war]	books	service	0.6
+[war]	battles	service	0.6
+[war]	deaths	property	0.75
+[war]	civil war	property	0.75
+[war]	who won the	property	0.6
+[war]	significance	property	0.6
+[war]	results	property	0.6
+[war]	genocide	property	0.6
+[war]	death toll	property	0.6
+[war]	cause	property	0.6
+[war]	canada	property	0.6
+[war]	warranty	other	1.0
+[war]	ppt	other	1.0
+[war]	pdf	other	1.0
+[war]	2017	other	1.0
+[war]	apush	other	0.75
+[war]	ap euro	other	0.75
+[war]	in hindi	other	0.6
+[war]	gktoday	other	0.6
