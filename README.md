@@ -28,3 +28,7 @@ Type	Intent	Top_judged_category	Judgment_rate_(confidence)
 [airport]	crash	other	0.6
 ...
 ```
+
+## Contact
+
+Should you have any questions, please contact Darío Garigliotti at dario.garigliotti[AT]uis.no (with [AT] replaced by @).
