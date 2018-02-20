@@ -29,6 +29,20 @@ Type	Intent	Top_judged_category	Judgment_rate_(confidence)
 ...
 ```
 
+## Crowdsourcing experiment
+
+We used crowdsourcing to annotate type-level refiners with intent categories. 
+
+  - For each annotation instance we displayed workers with the query, indicating its entity type and refiner, and asked them to select one of the four intent categories (details in the paper).
+
+Below, screenshots of the annotation job on Crowdflower.
+
+![Experiment Layout 1-4](https://github.com/iai-group/ecir2018-intents/blob/master/images/exp_layout_1-4.png)
+![Experiment Layout 2-4](https://github.com/iai-group/ecir2018-intents/blob/master/images/exp_layout_2-4.png)
+![Experiment Layout 3-4](https://github.com/iai-group/ecir2018-intents/blob/master/images/exp_layout_3-4.png)
+![Experiment Layout 4-4](https://github.com/iai-group/ecir2018-intents/blob/master/images/exp_layout_4-4.png)
+
+
 ## Contact
 
 Should you have any questions, please contact Darío Garigliotti at dario.garigliotti[AT]uis.no (with [AT] replaced by @).
