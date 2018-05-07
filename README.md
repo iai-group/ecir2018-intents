@@ -43,6 +43,25 @@ Below, screenshots of the annotation job on Crowdflower.
 ![Experiment Layout 4-4](https://github.com/iai-group/ecir2018-intents/blob/master/images/exp_layout_4-4.png)
 
 
+## Citation
+
+If you use the resources presented in this repository, please cite:
+
+```
+@InProceedings{Garigliotti:2018:TAU,
+ author =     {Garigliotti, Dar{\'i}o
+   and Balog, Krisztian},
+ title =      {Towards an Understanding of Entity-Oriented Search Intents},
+ booktitle =  {Advances in Information Retrieval - Proceedings of the 40th European Conference on IR Research, ECIR 2018},
+ year =       {2018},
+ pages =      {644--650},
+ publisher =  {Springer},
+ abstract =   {Entity-oriented search deals with a wide variety of information needs, from displaying direct answers to interacting with services. In this work, we aim to understand what are prominent entity-oriented search intents and how they can be fulfilled. We develop a scheme of entity intent categories, and use them to annotate a sample of queries. Specifically, we annotate unique query refiners on the level of entity types. We observe that, on average, over half of those refiners seek to interact with a service, while over a quarter of the refiners search for information that may be looked up in a knowledge base.},
+ doi =        {10.1007/978-3-319-76941-7_57},
+}
+```
+
+
 ## Contact
 
 Should you have any questions, please contact Darío Garigliotti at dario.garigliotti[AT]uis.no (with [AT] replaced by @).
