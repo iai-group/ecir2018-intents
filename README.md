@@ -1,10 +1,14 @@
 # Towards an Understanding of Entity-Oriented Search Intents
 
-This repository provides resources developed within the following paper:
+This repository provides resources developed within the following article:
 
-> D. Garigliotti and K. Balog. Towards an Understanding of Entity-Oriented Search Intents. In ECIR'18, March 2018.
+> D. Garigliotti and K. Balog. Towards an Understanding of Entity-Oriented Search Intents. In Advances in Information Retrieval - Proceedings of the 40th European Conference on Information Retrieval (ECIR '18). 2018. [DOI: 10.1007/978-3-319-76941-7_57](https://link.springer.com/chapter/10.1007/978-3-319-76941-7_57)
 
-These resources allow to reproduce the results presented in the paper.
+**You can get the author version of the article [here](https://arxiv.org/abs/1802.08010).**
+
+### Abstract
+
+> *Entity-oriented search deals with a wide variety of information needs, from displaying direct answers to interacting with services. In this work, we aim to understand what are prominent entity-oriented search intents and how they can be fulfilled. We develop a scheme of entity intent categories, and use them to annotate a sample of queries. Specifically, we annotate unique query refiners on the level of entity types. We observe that, on average, over half of those refiners seek to interact with a service, while over a quarter of the refiners search for information that may be looked up in a knowledge base.* 
 
 
 ## Collection of categorized type-level refiners
@@ -53,10 +57,10 @@ If you use the resources presented in this repository, please cite:
    and Balog, Krisztian},
  title =      {Towards an Understanding of Entity-Oriented Search Intents},
  booktitle =  {Advances in Information Retrieval - Proceedings of the 40th European Conference on IR Research, ECIR 2018},
+ series =     {ECIR '18},
  year =       {2018},
  pages =      {644--650},
  publisher =  {Springer},
- abstract =   {Entity-oriented search deals with a wide variety of information needs, from displaying direct answers to interacting with services. In this work, we aim to understand what are prominent entity-oriented search intents and how they can be fulfilled. We develop a scheme of entity intent categories, and use them to annotate a sample of queries. Specifically, we annotate unique query refiners on the level of entity types. We observe that, on average, over half of those refiners seek to interact with a service, while over a quarter of the refiners search for information that may be looked up in a knowledge base.},
  doi =        {10.1007/978-3-319-76941-7_57},
 }
 ```
