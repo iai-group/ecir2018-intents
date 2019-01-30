@@ -2,7 +2,7 @@
 
 This repository provides resources developed within the following article:
 
-> D. Garigliotti and K. Balog. Towards an Understanding of Entity-Oriented Search Intents. In: Advances in Information Retrieval - Proceedings of the 40th European Conference on Information Retrieval (ECIR '18). Springer. Grenoble, France. March 2018. [DOI: 10.1007/978-3-319-76941-7_57](https://link.springer.com/chapter/10.1007/978-3-319-76941-7_57)
+> D. Garigliotti and K. Balog. **Towards an Understanding of Entity-Oriented Search Intents.** In: Advances in Information Retrieval - Proceedings of the 40th European Conference on Information Retrieval (ECIR '18). Springer. Grenoble, France. March 2018. [DOI: 10.1007/978-3-319-76941-7_57](https://link.springer.com/chapter/10.1007/978-3-319-76941-7_57)
 
 **You can get the author version of the article [here](https://arxiv.org/abs/1802.08010).**
 
