@@ -56,7 +56,7 @@ If you use the resources presented in this repository, please cite:
  author =     {Garigliotti, Dar{\'i}o
    and Balog, Krisztian},
  title =      {Towards an Understanding of Entity-Oriented Search Intents},
- booktitle =  {Advances in Information Retrieval - Proceedings of the 40th European Conference on IR Research, ECIR 2018},
+ booktitle =  {Advances in Information Retrieval - Proceedings of the 40th European Conference on IR Research},
  series =     {ECIR '18},
  year =       {2018},
  pages =      {644--650},
